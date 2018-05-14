@@ -5,6 +5,8 @@
 #ifndef MYSLAM_VISUAL_ODOMETRY_H
 #define MYSLAM_VISUAL_ODOMETRY_H
 #include "common_include.h"
+#include "Camera.h"
+#include "Frame.h"
 
 class visual_odometry {
 
