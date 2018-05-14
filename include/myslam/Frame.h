@@ -30,7 +30,7 @@ namespace myslam
         static Frame::Ptr createFrame();
 
         // input all of the key points
-        // find the depth in depth map
+        // find the depth in depth Map
         double findDepth( const cv::KeyPoint& kp);
 
         // get camera center

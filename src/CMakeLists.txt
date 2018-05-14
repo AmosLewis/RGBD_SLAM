@@ -1,7 +1,7 @@
 add_library( myslam SHARED
         Frame.cpp
         MapPoint.cpp
-    map.cpp
+        Map.cpp
         Camera.cpp
         Config.cpp
     g2o_types.cpp

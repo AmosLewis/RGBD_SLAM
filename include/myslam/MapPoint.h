@@ -26,9 +26,13 @@ namespace myslam
         int                          visible_times_;   // being visiable in current time
 
         MapPoint();
-        MapPoint( unsigned long id, const Vector3d& position,
-                  const Vector3d& norm, Frame* frame= nullptr,
-                  const Mat& descriptor=Mat());
+        MapPoint(
+                unsigned long id,
+                const Vector3d& position,
+                const Vector3d& norm,
+                Frame* frame= nullptr,
+                const Mat& descriptor=Mat()
+        );
 
         inline cv::Point3f getPositionCV() const
         {
