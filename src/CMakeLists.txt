@@ -1,6 +1,6 @@
 add_library( myslam SHARED
         Frame.cpp
-    mappoint.cpp
+        MapPoint.cpp
     map.cpp
         Camera.cpp
         Config.cpp

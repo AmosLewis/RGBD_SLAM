@@ -84,6 +84,7 @@ int main (int argc, char** argv)
 
         boost::timer timer;
         cout<<"cost time: "<<timer.elapsed()<<endl;
+        break;
     }
 }
 

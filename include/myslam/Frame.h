@@ -40,7 +40,6 @@ namespace myslam
 
         //check is a points is in this frame
         bool isInFrame( const Vector3d& pt_world );
-
     };
 
 }
