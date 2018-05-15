@@ -50,10 +50,10 @@ namespace myslam
             case OK:
             {
                 curr_ = frame;
-                extractKeyPoints();
-                computeDescriptors();
-                featureMatching();
-                poseEstimationPnP();
+                extractKeyPoints();                 // orb->detect
+                computeDescriptors();               // orb->compute
+                featureMatching();                  // calculate good matches
+                poseEstimationPnP();                // calculate T_c_w_estimated_
                 if (checkEstimatePose() == true )   // this is a good estimation
                 {
                     // T_c_w = T_c_r * T_r_w
@@ -93,7 +93,7 @@ namespace myslam
 
     void VisualOdometry::computeDescriptors()
     {
-        orb_->detect ( curr_->color_, keypoints_curr_, descriptors_curr_);
+        orb_->compute ( curr_->color_, keypoints_curr_, descriptors_curr_);
     }
 
     void VisualOdometry::featureMatching()
@@ -102,15 +102,17 @@ namespace myslam
         vector<cv::DMatch> matches;
         cv::BFMatcher matcher (cv::NORM_HAMMING);
         matcher.match( descriptors_ref_, descriptors_curr_, matches );
+
         // select good matches
+        //// find minimum distance in all matches
         float min_dis = std::min_element(
                 matches.begin(), matches.end(),
                 []( const cv::DMatch& m1, const cv::DMatch& m2 )
                 {
                     return m1.distance < m2.distance;
                 }
-        )->distance;        // find minimum distance in all matches
-
+        )->distance;
+        ////  store good matches
         feature_matches_.clear();
         for( cv::DMatch& m: matches )
         {
@@ -131,12 +133,15 @@ namespace myslam
         descriptors_ref_ = Mat();
         for ( size_t i=0; i<keypoints_curr_.size(); i++)
         {
+            // calculate depth of every keypoint in current frame
             double d = ref_->findDepth(keypoints_curr_[i]);
             if ( d > 0)
             {
+                // 2D-->3D use eigen to calculate camera coordinate points
                 Vector3d p_cam = ref_->camera_->pixel2camera(
-                        Vector2d(),d
+                        Vector2d(keypoints_curr_[i].pt.x, keypoints_curr_[i].pt.y),d
                 );
+                // eigen --> opencv, save opencv 3D point
                 pts_3d_ref_.push_back( cv::Point3f(p_cam(0,0), p_cam(1,0), p_cam(2,0)));
                 descriptors_ref_.push_back( descriptors_curr_.row(i));
             }
@@ -146,17 +151,61 @@ namespace myslam
 
     void VisualOdometry::poseEstimationPnP()
     {
+        // construct 3d->2d obersvations
+        //// prepare 3d and 2d points
+        vector<cv::Point3f> pts3d;
+        vector<cv::Point2f> pts2d;
+        for (cv::DMatch m: feature_matches_)
+        {
+            pts3d.push_back(pts_3d_ref_[m.queryIdx]);
+            pts2d.push_back(keypoints_curr_[m.trainIdx].pt);
+        }
 
+        //// prepare intrinsic matrix of camera
+        Mat K = (cv::Mat_<double>(3,3)<<
+            ref_->camera_->fx_, 0, ref_->camera_->cx_,
+            0, ref_->camera_->fy_, ref_->camera_->cy_,
+            0,0,1
+        );
+        //// prepare output of  pnp_ransac
+        //// rotation vector, translation vector, Output vector that contains indices of inliers in objectPoints and imagePoints .
+        Mat rvec, tvec, inliners;
+
+        //// Finds an object pose from 3D-2D point correspondences using the RANSAC scheme.
+        cv::solvePnPRansac(pts3d, pts2d, K, Mat(), rvec, tvec, false, 100, 4.0, 0.99, inliners);
+        num_inliers_ = inliners.rows;
+        cout<<"pnp ransac inliers: "<< num_inliers_<<endl;
+
+        //// Save OpenCV Mat --> SE3 lie group in sophus
+        T_c_w_estimated_ = SE3(
+                SO3(rvec.at<double>(0,0), rvec.at<double>(1,0), rvec.at<double>(2,0)),
+                Vector3d( tvec.at<double>(0,0), tvec.at<double>(1,0), tvec.at<double>(2,0))
+        );
     }
 
     bool VisualOdometry::checkEstimatePose()
     {
-
+        // check is the estimated pose is good
+        if ( num_inliers_ < min_inliers_)
+        {
+            cout<<" reject this pnp ransac slove because inlier is too small:"<< num_inliers_<<endl;
+            return false;
+        }
     }
 
     bool VisualOdometry::checkKeyFrame()
     {
-
+        Sophus::Vector6d d = T_c_w_estimated_.log();    // lie group --> lie algebra
+        Vector3d trans = d.head<3>();                   // the first n coeffs in d, Eigen function
+        Vector3d rot = d.tail<3>();                     // // the last n coeffs in d, Eigen function
+        if ( rot.norm() > key_frame_min_rot || trans.norm() > key_frame_min_trans)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
     }
 
     void VisualOdometry::addKeyFrame()
