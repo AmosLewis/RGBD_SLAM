@@ -5,7 +5,7 @@ add_library( myslam SHARED
         Camera.cpp
         Config.cpp
     g2o_types.cpp
-    visual_odometry.cpp
+        VisualOdometry.cpp
         ../test/run_vo.cpp)
 
 target_link_libraries( myslam

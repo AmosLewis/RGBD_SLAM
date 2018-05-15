@@ -11,7 +11,7 @@
 #include <opencv2/imgproc/imgproc.hpp>
 
 #include "Config.h"
-#include "../include/myslam/visual_odometry.h"
+#include "VisualOdometry.h"
 
 int main (int argc, char** argv)
 {
