@@ -77,7 +77,7 @@ int main (int argc, char** argv)
     {
         cout<<"**********loop "<<i<<" *********** "<<endl;
         Mat color = cv::imread ( rgb_files[i] );
-        Mat depth = cv::imread ( depth_files[i] );
+        Mat depth = cv::imread ( depth_files[i], -1 );
         if ( color.data == nullptr || depth.data == nullptr )
         {
             break;
@@ -114,9 +114,9 @@ int main (int argc, char** argv)
         );
 
         cv::imshow("image", color);
-        cv::waitKey(100);
+        cv::waitKey(1);
         vis.setWidgetPose("Camera", M);
-        vis.spinOnce(100, false);
+        vis.spinOnce(1, false);
 
         //break;
     }

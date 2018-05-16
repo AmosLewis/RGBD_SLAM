@@ -31,7 +31,7 @@ namespace myslam
         cv::Ptr<cv::ORB>        orb_;              // orb detector and computer
         vector<cv::KeyPoint>    keypoints_curr_;   // keypoints in current frame, output of orb_->detect
         Mat                     descriptors_curr_; // descriptor in current frame, output of orb_->detect
-        Mat                     descriptors_ref_;  // descriptor in current frame, output of orb_->detect
+        Mat                     descriptors_ref_;  // descriptor in reference frame, output of orb_->detect
         vector<cv::DMatch>      feature_matches_;  // all good matches
         vector<cv::Point3f>     pts_3d_ref_;       // 3d points in reference frame
 

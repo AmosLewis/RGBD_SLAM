@@ -5,7 +5,8 @@
 #ifndef MYSLAM_CAMERA_H
 #define MYSLAM_CAMERA_H
 
-#include "../myslam/common_include.h"
+#include "common_include.h"
+#include "Config.h"
 
 namespace myslam
 {
