@@ -39,7 +39,7 @@ namespace myslam
         vector<MapPoint::Ptr>   match_3dpts_;      // matched 3D points
         vector<int>             match_2dkp_index_; // matched 2D pixels (index of keypoints_curr)
 
-        SE3 T_c_w_estimated_;     // the estimated pose of current frame
+        SE3 T_c_r_estimated_;     // the estimated pose of current frame
         int num_inliers_;         // number of inlier features in pnp_ransac
         int num_lost_;            // number of lost times
 
