@@ -12,9 +12,12 @@
 
 #include "Config.h"
 #include "VisualOdometry.h"
+#include <cstdio>
 
 int main (int argc, char** argv)
 {
+    freopen( "output.txt", "w", stdout );
+    freopen( "error.txt", "w", stderr );
     if ( argc != 2)
     {
         cout<<"usage: run_vo parameter_file"<<endl;
@@ -93,7 +96,7 @@ int main (int argc, char** argv)
         // add Frame to vo and calculate T_c_w
         boost::timer timer;
         vo->addFrame( pFrame );
-        cout<<"cost time: "<<timer.elapsed()<<endl;
+        cout<<"add frame cost time: "<<timer.elapsed()<<endl;
 
         if ( vo->state_ == myslam::VisualOdometry::LOST )
         {
