@@ -1,0 +1,3444 @@
+dataset: /home/chiliu/slam/RGBD_SLAM/dataset/rgbd_dataset_freiburg1_desk
+read total 574 entries
+Key frame size = 0
+extract keypoints cost time: 0.008421
+descriptor computation cost time: 0.011139
+VO costs time: 0.020046
+extract keypoints cost time: 0.007319
+descriptor computation cost time: 0.00825
+good matches: 254
+Brute-Froce match cost time: 0.038575
+pnp inliers: 252
+VO costs time: 0.057968
+extract keypoints cost time: 0.007889
+descriptor computation cost time: 0.008261
+good matches: 329
+Brute-Froce match cost time: 0.030021
+pnp inliers: 329
+VO costs time: 0.049499
+extract keypoints cost time: 0.007342
+descriptor computation cost time: 0.008561
+good matches: 301
+Brute-Froce match cost time: 0.035319
+pnp inliers: 301
+VO costs time: 0.05319
+extract keypoints cost time: 0.008216
+descriptor computation cost time: 0.008959
+good matches: 357
+Brute-Froce match cost time: 0.03405
+pnp inliers: 357
+VO costs time: 0.053237
+extract keypoints cost time: 0.006288
+descriptor computation cost time: 0.011079
+good matches: 363
+Brute-Froce match cost time: 0.032343
+pnp inliers: 363
+VO costs time: 0.052216
+extract keypoints cost time: 0.006037
+descriptor computation cost time: 0.00764
+good matches: 399
+Brute-Froce match cost time: 0.032963
+pnp inliers: 398
+VO costs time: 0.048988
+extract keypoints cost time: 0.005508
+descriptor computation cost time: 0.009022
+good matches: 418
+Brute-Froce match cost time: 0.035121
+pnp inliers: 418
+VO costs time: 0.052976
+extract keypoints cost time: 0.005941
+descriptor computation cost time: 0.009259
+good matches: 336
+Brute-Froce match cost time: 0.03624
+pnp inliers: 336
+VO costs time: 0.054688
+extract keypoints cost time: 0.00518
+descriptor computation cost time: 0.007606
+good matches: 370
+Brute-Froce match cost time: 0.038561
+pnp inliers: 370
+VO costs time: 0.054826
+extract keypoints cost time: 0.007457
+descriptor computation cost time: 0.006965
+good matches: 375
+Brute-Froce match cost time: 0.033695
+pnp inliers: 375
+VO costs time: 0.051922
+extract keypoints cost time: 0.005972
+descriptor computation cost time: 0.007457
+good matches: 330
+Brute-Froce match cost time: 0.034598
+pnp inliers: 330
+VO costs time: 0.050037
+extract keypoints cost time: 0.006964
+descriptor computation cost time: 0.008414
+good matches: 281
+Brute-Froce match cost time: 0.028964
+pnp inliers: 280
+VO costs time: 0.04639
+extract keypoints cost time: 0.00564
+descriptor computation cost time: 0.007424
+good matches: 326
+Brute-Froce match cost time: 0.030524
+pnp inliers: 325
+VO costs time: 0.045634
+extract keypoints cost time: 0.006097
+descriptor computation cost time: 0.01062
+good matches: 352
+Brute-Froce match cost time: 0.04766
+pnp inliers: 352
+VO costs time: 0.066587
+extract keypoints cost time: 0.005841
+descriptor computation cost time: 0.007249
+good matches: 260
+Brute-Froce match cost time: 0.031545
+pnp inliers: 258
+VO costs time: 0.047483
+extract keypoints cost time: 0.006616
+descriptor computation cost time: 0.011674
+good matches: 332
+Brute-Froce match cost time: 0.032797
+pnp inliers: 326
+VO costs time: 0.053427
+extract keypoints cost time: 0.005404
+descriptor computation cost time: 0.00999
+good matches: 355
+Brute-Froce match cost time: 0.034738
+pnp inliers: 354
+VO costs time: 0.052588
+extract keypoints cost time: 0.006675
+descriptor computation cost time: 0.012221
+good matches: 286
+Brute-Froce match cost time: 0.033264
+pnp inliers: 281
+VO costs time: 0.054666
+extract keypoints cost time: 0.009128
+descriptor computation cost time: 0.008038
+good matches: 309
+Brute-Froce match cost time: 0.02702
+pnp inliers: 309
+VO costs time: 0.046058
+extract keypoints cost time: 0.006971
+descriptor computation cost time: 0.009862
+good matches: 372
+Brute-Froce match cost time: 0.033067
+pnp inliers: 372
+VO costs time: 0.052575
+extract keypoints cost time: 0.006339
+descriptor computation cost time: 0.007444
+good matches: 337
+Brute-Froce match cost time: 0.035599
+pnp inliers: 337
+VO costs time: 0.051629
+extract keypoints cost time: 0.007073
+descriptor computation cost time: 0.007506
+good matches: 320
+Brute-Froce match cost time: 0.03367
+pnp inliers: 318
+VO costs time: 0.050552
+extract keypoints cost time: 0.005042
+descriptor computation cost time: 0.007568
+good matches: 366
+Brute-Froce match cost time: 0.033693
+pnp inliers: 365
+VO costs time: 0.048747
+extract keypoints cost time: 0.005824
+descriptor computation cost time: 0.00918
+good matches: 255
+Brute-Froce match cost time: 0.035836
+pnp inliers: 255
+VO costs time: 0.052594
+extract keypoints cost time: 0.006962
+descriptor computation cost time: 0.008246
+good matches: 351
+Brute-Froce match cost time: 0.036491
+pnp inliers: 351
+VO costs time: 0.054305
+extract keypoints cost time: 0.006601
+descriptor computation cost time: 0.008886
+good matches: 213
+Brute-Froce match cost time: 0.032066
+pnp inliers: 213
+VO costs time: 0.049213
+extract keypoints cost time: 0.006442
+descriptor computation cost time: 0.011199
+good matches: 206
+Brute-Froce match cost time: 0.029295
+pnp inliers: 204
+VO costs time: 0.048797
+extract keypoints cost time: 0.006304
+descriptor computation cost time: 0.007686
+good matches: 347
+Brute-Froce match cost time: 0.030203
+pnp inliers: 347
+VO costs time: 0.046357
+extract keypoints cost time: 0.005941
+descriptor computation cost time: 0.009419
+good matches: 197
+Brute-Froce match cost time: 0.032823
+pnp inliers: 197
+VO costs time: 0.050281
+extract keypoints cost time: 0.010101
+descriptor computation cost time: 0.011505
+good matches: 325
+Brute-Froce match cost time: 0.035043
+pnp inliers: 325
+VO costs time: 0.059979
+extract keypoints cost time: 0.00782
+descriptor computation cost time: 0.008393
+good matches: 346
+Brute-Froce match cost time: 0.033978
+pnp inliers: 346
+VO costs time: 0.052715
+extract keypoints cost time: 0.007796
+descriptor computation cost time: 0.010241
+good matches: 344
+Brute-Froce match cost time: 0.031611
+pnp inliers: 344
+VO costs time: 0.051999
+extract keypoints cost time: 0.00904
+descriptor computation cost time: 0.011964
+good matches: 198
+Brute-Froce match cost time: 0.033082
+pnp inliers: 198
+VO costs time: 0.055774
+extract keypoints cost time: 0.008325
+descriptor computation cost time: 0.008069
+good matches: 446
+Brute-Froce match cost time: 0.030631
+pnp inliers: 445
+VO costs time: 0.05178
+extract keypoints cost time: 0.008035
+descriptor computation cost time: 0.00953
+good matches: 422
+Brute-Froce match cost time: 0.032377
+pnp inliers: 422
+VO costs time: 0.05235
+extract keypoints cost time: 0.010566
+descriptor computation cost time: 0.009869
+good matches: 387
+Brute-Froce match cost time: 0.030167
+pnp inliers: 387
+VO costs time: 0.054191
+extract keypoints cost time: 0.007381
+descriptor computation cost time: 0.010743
+good matches: 328
+Brute-Froce match cost time: 0.040324
+pnp inliers: 327
+VO costs time: 0.062072
+extract keypoints cost time: 0.009484
+descriptor computation cost time: 0.0083
+good matches: 399
+Brute-Froce match cost time: 0.031778
+pnp inliers: 399
+VO costs time: 0.052034
+extract keypoints cost time: 0.005739
+descriptor computation cost time: 0.008721
+good matches: 378
+Brute-Froce match cost time: 0.041425
+pnp inliers: 377
+VO costs time: 0.05861
+extract keypoints cost time: 0.009794
+descriptor computation cost time: 0.008072
+good matches: 356
+Brute-Froce match cost time: 0.035748
+pnp inliers: 356
+VO costs time: 0.057244
+extract keypoints cost time: 0.008317
+descriptor computation cost time: 0.010671
+good matches: 241
+Brute-Froce match cost time: 0.033206
+pnp inliers: 241
+VO costs time: 0.055122
+extract keypoints cost time: 0.009461
+descriptor computation cost time: 0.009547
+good matches: 257
+Brute-Froce match cost time: 0.036291
+pnp inliers: 257
+VO costs time: 0.057834
+extract keypoints cost time: 0.009286
+descriptor computation cost time: 0.008818
+good matches: 499
+Brute-Froce match cost time: 0.033904
+pnp inliers: 499
+VO costs time: 0.05471
+extract keypoints cost time: 0.008151
+descriptor computation cost time: 0.010392
+good matches: 418
+Brute-Froce match cost time: 0.036984
+pnp inliers: 418
+VO costs time: 0.059555
+extract keypoints cost time: 0.007305
+descriptor computation cost time: 0.011121
+good matches: 432
+Brute-Froce match cost time: 0.04378
+pnp inliers: 432
+VO costs time: 0.066327
+extract keypoints cost time: 0.008035
+descriptor computation cost time: 0.007818
+good matches: 516
+Brute-Froce match cost time: 0.028851
+pnp inliers: 516
+VO costs time: 0.047203
+extract keypoints cost time: 0.006793
+descriptor computation cost time: 0.008929
+good matches: 507
+Brute-Froce match cost time: 0.035287
+pnp inliers: 507
+VO costs time: 0.054811
+extract keypoints cost time: 0.00916
+descriptor computation cost time: 0.012746
+good matches: 487
+Brute-Froce match cost time: 0.033625
+pnp inliers: 487
+VO costs time: 0.058623
+extract keypoints cost time: 0.008035
+descriptor computation cost time: 0.009239
+good matches: 387
+Brute-Froce match cost time: 0.037982
+pnp inliers: 387
+VO costs time: 0.058436
+extract keypoints cost time: 0.011203
+descriptor computation cost time: 0.012708
+good matches: 439
+Brute-Froce match cost time: 0.034894
+pnp inliers: 439
+VO costs time: 0.062415
+extract keypoints cost time: 0.009062
+descriptor computation cost time: 0.009849
+good matches: 473
+Brute-Froce match cost time: 0.033543
+pnp inliers: 473
+VO costs time: 0.055544
+extract keypoints cost time: 0.011126
+descriptor computation cost time: 0.009496
+good matches: 482
+Brute-Froce match cost time: 0.034069
+pnp inliers: 482
+VO costs time: 0.057459
+extract keypoints cost time: 0.008078
+descriptor computation cost time: 0.009726
+good matches: 460
+Brute-Froce match cost time: 0.0324
+pnp inliers: 460
+VO costs time: 0.052913
+extract keypoints cost time: 0.009296
+descriptor computation cost time: 0.009943
+good matches: 441
+Brute-Froce match cost time: 0.038301
+pnp inliers: 441
+VO costs time: 0.06078
+extract keypoints cost time: 0.011161
+descriptor computation cost time: 0.013922
+good matches: 474
+Brute-Froce match cost time: 0.033685
+pnp inliers: 474
+VO costs time: 0.061876
+extract keypoints cost time: 0.015246
+descriptor computation cost time: 0.010209
+good matches: 462
+Brute-Froce match cost time: 0.038553
+pnp inliers: 462
+VO costs time: 0.067301
+extract keypoints cost time: 0.007059
+descriptor computation cost time: 0.010777
+good matches: 381
+Brute-Froce match cost time: 0.02708
+pnp inliers: 381
+VO costs time: 0.047345
+extract keypoints cost time: 0.007496
+descriptor computation cost time: 0.007724
+good matches: 429
+Brute-Froce match cost time: 0.036691
+pnp inliers: 429
+VO costs time: 0.056732
+extract keypoints cost time: 0.008871
+descriptor computation cost time: 0.011125
+good matches: 375
+Brute-Froce match cost time: 0.032566
+pnp inliers: 375
+VO costs time: 0.055032
+extract keypoints cost time: 0.006678
+descriptor computation cost time: 0.010718
+good matches: 279
+Brute-Froce match cost time: 0.035736
+pnp inliers: 278
+VO costs time: 0.055426
+extract keypoints cost time: 0.008398
+descriptor computation cost time: 0.008704
+good matches: 351
+Brute-Froce match cost time: 0.034126
+pnp inliers: 351
+VO costs time: 0.053749
+extract keypoints cost time: 0.010659
+descriptor computation cost time: 0.011674
+good matches: 355
+Brute-Froce match cost time: 0.034326
+pnp inliers: 355
+VO costs time: 0.059121
+extract keypoints cost time: 0.009449
+descriptor computation cost time: 0.010551
+good matches: 404
+Brute-Froce match cost time: 0.036085
+pnp inliers: 404
+VO costs time: 0.058848
+extract keypoints cost time: 0.007688
+descriptor computation cost time: 0.007858
+good matches: 421
+Brute-Froce match cost time: 0.033335
+pnp inliers: 421
+VO costs time: 0.052551
+extract keypoints cost time: 0.006688
+descriptor computation cost time: 0.010315
+good matches: 320
+Brute-Froce match cost time: 0.025559
+pnp inliers: 320
+VO costs time: 0.045782
+extract keypoints cost time: 0.008516
+descriptor computation cost time: 0.011636
+good matches: 348
+Brute-Froce match cost time: 0.037714
+pnp inliers: 348
+VO costs time: 0.060689
+extract keypoints cost time: 0.009338
+descriptor computation cost time: 0.008691
+good matches: 311
+Brute-Froce match cost time: 0.038634
+pnp inliers: 311
+VO costs time: 0.059352
+extract keypoints cost time: 0.010639
+descriptor computation cost time: 0.012628
+good matches: 359
+Brute-Froce match cost time: 0.030572
+pnp inliers: 359
+VO costs time: 0.05687
+extract keypoints cost time: 0.00767
+descriptor computation cost time: 0.011264
+good matches: 373
+Brute-Froce match cost time: 0.028482
+pnp inliers: 373
+VO costs time: 0.050639
+extract keypoints cost time: 0.011554
+descriptor computation cost time: 0.008856
+good matches: 395
+Brute-Froce match cost time: 0.034825
+pnp inliers: 395
+VO costs time: 0.058103
+extract keypoints cost time: 0.009061
+descriptor computation cost time: 0.011027
+good matches: 452
+Brute-Froce match cost time: 0.036315
+pnp inliers: 452
+VO costs time: 0.059881
+extract keypoints cost time: 0.008617
+descriptor computation cost time: 0.010741
+good matches: 419
+Brute-Froce match cost time: 0.038619
+pnp inliers: 419
+VO costs time: 0.060726
+extract keypoints cost time: 0.007095
+descriptor computation cost time: 0.008576
+good matches: 362
+Brute-Froce match cost time: 0.032877
+pnp inliers: 362
+VO costs time: 0.05091
+extract keypoints cost time: 0.010697
+descriptor computation cost time: 0.00994
+good matches: 426
+Brute-Froce match cost time: 0.040702
+pnp inliers: 426
+VO costs time: 0.065004
+extract keypoints cost time: 0.007308
+descriptor computation cost time: 0.012617
+good matches: 504
+Brute-Froce match cost time: 0.032352
+pnp inliers: 504
+VO costs time: 0.055873
+extract keypoints cost time: 0.010102
+descriptor computation cost time: 0.009048
+good matches: 482
+Brute-Froce match cost time: 0.040139
+pnp inliers: 482
+VO costs time: 0.064043
+extract keypoints cost time: 0.008127
+descriptor computation cost time: 0.008972
+good matches: 449
+Brute-Froce match cost time: 0.039301
+pnp inliers: 449
+VO costs time: 0.061289
+extract keypoints cost time: 0.010537
+descriptor computation cost time: 0.012753
+good matches: 452
+Brute-Froce match cost time: 0.038354
+pnp inliers: 452
+VO costs time: 0.066508
+extract keypoints cost time: 0.009241
+descriptor computation cost time: 0.008224
+good matches: 488
+Brute-Froce match cost time: 0.031027
+pnp inliers: 488
+VO costs time: 0.051568
+extract keypoints cost time: 0.009703
+descriptor computation cost time: 0.011487
+good matches: 279
+Brute-Froce match cost time: 0.031146
+pnp inliers: 279
+VO costs time: 0.054399
+extract keypoints cost time: 0.009566
+descriptor computation cost time: 0.009458
+good matches: 347
+Brute-Froce match cost time: 0.03802
+pnp inliers: 347
+VO costs time: 0.060161
+extract keypoints cost time: 0.008448
+descriptor computation cost time: 0.009077
+good matches: 378
+Brute-Froce match cost time: 0.034202
+pnp inliers: 378
+VO costs time: 0.054441
+extract keypoints cost time: 0.010264
+descriptor computation cost time: 0.011871
+good matches: 454
+Brute-Froce match cost time: 0.038201
+pnp inliers: 454
+VO costs time: 0.064667
+extract keypoints cost time: 0.011599
+descriptor computation cost time: 0.008834
+good matches: 386
+Brute-Froce match cost time: 0.039986
+pnp inliers: 386
+VO costs time: 0.063451
+extract keypoints cost time: 0.006843
+descriptor computation cost time: 0.008421
+good matches: 310
+Brute-Froce match cost time: 0.035495
+pnp inliers: 310
+VO costs time: 0.05307
+extract keypoints cost time: 0.011685
+descriptor computation cost time: 0.010712
+good matches: 278
+Brute-Froce match cost time: 0.034639
+pnp inliers: 278
+VO costs time: 0.059309
+extract keypoints cost time: 0.009263
+descriptor computation cost time: 0.012752
+good matches: 278
+Brute-Froce match cost time: 0.039735
+pnp inliers: 278
+VO costs time: 0.064699
+extract keypoints cost time: 0.008684
+descriptor computation cost time: 0.01203
+good matches: 444
+Brute-Froce match cost time: 0.033526
+pnp inliers: 444
+VO costs time: 0.057039
+extract keypoints cost time: 0.009228
+descriptor computation cost time: 0.011
+good matches: 382
+Brute-Froce match cost time: 0.037918
+pnp inliers: 382
+VO costs time: 0.061192
+extract keypoints cost time: 0.008438
+descriptor computation cost time: 0.008854
+good matches: 293
+Brute-Froce match cost time: 0.036207
+pnp inliers: 293
+VO costs time: 0.055735
+extract keypoints cost time: 0.009897
+descriptor computation cost time: 0.010332
+good matches: 291
+Brute-Froce match cost time: 0.033568
+pnp inliers: 291
+VO costs time: 0.05625
+extract keypoints cost time: 0.00901
+descriptor computation cost time: 0.012816
+good matches: 425
+Brute-Froce match cost time: 0.03227
+pnp inliers: 425
+VO costs time: 0.057017
+extract keypoints cost time: 0.007558
+descriptor computation cost time: 0.00969
+good matches: 269
+Brute-Froce match cost time: 0.042182
+pnp inliers: 269
+VO costs time: 0.061953
+extract keypoints cost time: 0.009653
+descriptor computation cost time: 0.010306
+good matches: 181
+Brute-Froce match cost time: 0.035043
+pnp inliers: 181
+VO costs time: 0.05758
+extract keypoints cost time: 0.010549
+descriptor computation cost time: 0.011943
+good matches: 65
+Brute-Froce match cost time: 0.040491
+pnp inliers: 65
+VO costs time: 0.064463
+extract keypoints cost time: 0.007637
+descriptor computation cost time: 0.008224
+good matches: 289
+Brute-Froce match cost time: 0.036577
+pnp inliers: 289
+VO costs time: 0.055046
+extract keypoints cost time: 0.009013
+descriptor computation cost time: 0.010063
+good matches: 167
+Brute-Froce match cost time: 0.034875
+pnp inliers: 167
+VO costs time: 0.056016
+extract keypoints cost time: 0.010343
+descriptor computation cost time: 0.008346
+good matches: 186
+Brute-Froce match cost time: 0.034549
+pnp inliers: 186
+VO costs time: 0.055008
+extract keypoints cost time: 0.01114
+descriptor computation cost time: 0.00891
+good matches: 231
+Brute-Froce match cost time: 0.029799
+pnp inliers: 231
+VO costs time: 0.05221
+extract keypoints cost time: 0.008952
+descriptor computation cost time: 0.01393
+good matches: 382
+Brute-Froce match cost time: 0.031356
+pnp inliers: 382
+VO costs time: 0.056834
+extract keypoints cost time: 0.007716
+descriptor computation cost time: 0.008792
+good matches: 238
+Brute-Froce match cost time: 0.033729
+pnp inliers: 238
+VO costs time: 0.054628
+extract keypoints cost time: 0.011241
+descriptor computation cost time: 0.008684
+good matches: 325
+Brute-Froce match cost time: 0.035477
+pnp inliers: 325
+VO costs time: 0.058991
+extract keypoints cost time: 0.010132
+descriptor computation cost time: 0.010164
+good matches: 394
+Brute-Froce match cost time: 0.035809
+pnp inliers: 394
+VO costs time: 0.059268
+extract keypoints cost time: 0.01165
+descriptor computation cost time: 0.008482
+good matches: 314
+Brute-Froce match cost time: 0.028339
+pnp inliers: 314
+VO costs time: 0.050683
+extract keypoints cost time: 0.014903
+descriptor computation cost time: 0.011423
+good matches: 372
+Brute-Froce match cost time: 0.036337
+pnp inliers: 372
+VO costs time: 0.065558
+extract keypoints cost time: 0.012243
+descriptor computation cost time: 0.012635
+good matches: 336
+Brute-Froce match cost time: 0.031429
+pnp inliers: 336
+VO costs time: 0.058635
+extract keypoints cost time: 0.011392
+descriptor computation cost time: 0.009711
+good matches: 423
+Brute-Froce match cost time: 0.033515
+pnp inliers: 423
+VO costs time: 0.057328
+extract keypoints cost time: 0.010056
+descriptor computation cost time: 0.011312
+good matches: 294
+Brute-Froce match cost time: 0.036784
+pnp inliers: 293
+VO costs time: 0.060896
+extract keypoints cost time: 0.012051
+descriptor computation cost time: 0.012223
+good matches: 345
+Brute-Froce match cost time: 0.02964
+pnp inliers: 345
+VO costs time: 0.056356
+extract keypoints cost time: 0.0083
+descriptor computation cost time: 0.009096
+good matches: 275
+Brute-Froce match cost time: 0.039121
+pnp inliers: 275
+VO costs time: 0.060917
+extract keypoints cost time: 0.008602
+descriptor computation cost time: 0.00866
+good matches: 276
+Brute-Froce match cost time: 0.038022
+pnp inliers: 276
+VO costs time: 0.058517
+extract keypoints cost time: 0.008586
+descriptor computation cost time: 0.008941
+good matches: 349
+Brute-Froce match cost time: 0.036259
+pnp inliers: 349
+VO costs time: 0.057702
+extract keypoints cost time: 0.008071
+descriptor computation cost time: 0.011134
+good matches: 456
+Brute-Froce match cost time: 0.035323
+pnp inliers: 456
+VO costs time: 0.058015
+extract keypoints cost time: 0.012599
+descriptor computation cost time: 0.009363
+good matches: 465
+Brute-Froce match cost time: 0.038226
+pnp inliers: 465
+VO costs time: 0.063768
+extract keypoints cost time: 0.008302
+descriptor computation cost time: 0.008356
+good matches: 389
+Brute-Froce match cost time: 0.032166
+pnp inliers: 389
+VO costs time: 0.053305
+extract keypoints cost time: 0.013513
+descriptor computation cost time: 0.009441
+good matches: 399
+Brute-Froce match cost time: 0.035271
+pnp inliers: 399
+VO costs time: 0.060967
+extract keypoints cost time: 0.008026
+descriptor computation cost time: 0.011304
+good matches: 332
+Brute-Froce match cost time: 0.032111
+pnp inliers: 331
+VO costs time: 0.054048
+extract keypoints cost time: 0.012896
+descriptor computation cost time: 0.009208
+good matches: 368
+Brute-Froce match cost time: 0.029434
+pnp inliers: 368
+VO costs time: 0.054396
+extract keypoints cost time: 0.012205
+descriptor computation cost time: 0.013734
+good matches: 348
+Brute-Froce match cost time: 0.031864
+pnp inliers: 348
+VO costs time: 0.060355
+extract keypoints cost time: 0.011188
+descriptor computation cost time: 0.010923
+good matches: 417
+Brute-Froce match cost time: 0.036502
+pnp inliers: 416
+VO costs time: 0.061243
+extract keypoints cost time: 0.009398
+descriptor computation cost time: 0.009527
+good matches: 250
+Brute-Froce match cost time: 0.038001
+pnp inliers: 250
+VO costs time: 0.059363
+extract keypoints cost time: 0.010649
+descriptor computation cost time: 0.008804
+good matches: 236
+Brute-Froce match cost time: 0.038967
+pnp inliers: 235
+VO costs time: 0.060576
+extract keypoints cost time: 0.011986
+descriptor computation cost time: 0.008763
+good matches: 354
+Brute-Froce match cost time: 0.041396
+pnp inliers: 354
+VO costs time: 0.0663
+extract keypoints cost time: 0.00788
+descriptor computation cost time: 0.008322
+good matches: 163
+Brute-Froce match cost time: 0.033116
+pnp inliers: 163
+VO costs time: 0.051062
+extract keypoints cost time: 0.011872
+descriptor computation cost time: 0.011002
+good matches: 265
+Brute-Froce match cost time: 0.031994
+pnp inliers: 265
+VO costs time: 0.05738
+extract keypoints cost time: 0.011502
+descriptor computation cost time: 0.011045
+good matches: 351
+Brute-Froce match cost time: 0.034987
+pnp inliers: 351
+VO costs time: 0.059855
+extract keypoints cost time: 0.008529
+descriptor computation cost time: 0.009374
+good matches: 404
+Brute-Froce match cost time: 0.037061
+pnp inliers: 404
+VO costs time: 0.057917
+extract keypoints cost time: 0.011623
+descriptor computation cost time: 0.01265
+good matches: 212
+Brute-Froce match cost time: 0.043879
+pnp inliers: 212
+VO costs time: 0.070396
+extract keypoints cost time: 0.012002
+descriptor computation cost time: 0.012917
+good matches: 447
+Brute-Froce match cost time: 0.031946
+pnp inliers: 447
+VO costs time: 0.059927
+extract keypoints cost time: 0.013544
+descriptor computation cost time: 0.012262
+good matches: 387
+Brute-Froce match cost time: 0.030233
+pnp inliers: 387
+VO costs time: 0.05852
+extract keypoints cost time: 0.011086
+descriptor computation cost time: 0.010084
+good matches: 352
+Brute-Froce match cost time: 0.033207
+pnp inliers: 352
+VO costs time: 0.057184
+extract keypoints cost time: 0.008955
+descriptor computation cost time: 0.012424
+good matches: 264
+Brute-Froce match cost time: 0.030485
+pnp inliers: 263
+VO costs time: 0.05401
+extract keypoints cost time: 0.008992
+descriptor computation cost time: 0.008395
+good matches: 342
+Brute-Froce match cost time: 0.036596
+pnp inliers: 342
+VO costs time: 0.056661
+extract keypoints cost time: 0.011334
+descriptor computation cost time: 0.010399
+good matches: 123
+Brute-Froce match cost time: 0.036777
+pnp inliers: 123
+VO costs time: 0.060062
+extract keypoints cost time: 0.009392
+descriptor computation cost time: 0.010587
+good matches: 253
+Brute-Froce match cost time: 0.030293
+pnp inliers: 253
+VO costs time: 0.053653
+extract keypoints cost time: 0.010934
+descriptor computation cost time: 0.010342
+good matches: 348
+Brute-Froce match cost time: 0.039997
+pnp inliers: 348
+VO costs time: 0.063891
+extract keypoints cost time: 0.007078
+descriptor computation cost time: 0.008198
+good matches: 170
+Brute-Froce match cost time: 0.037889
+pnp inliers: 170
+VO costs time: 0.055293
+extract keypoints cost time: 0.012241
+descriptor computation cost time: 0.009285
+good matches: 275
+Brute-Froce match cost time: 0.038426
+pnp inliers: 273
+VO costs time: 0.063646
+extract keypoints cost time: 0.007896
+descriptor computation cost time: 0.00861
+good matches: 289
+Brute-Froce match cost time: 0.041073
+pnp inliers: 287
+VO costs time: 0.061899
+extract keypoints cost time: 0.008143
+descriptor computation cost time: 0.011441
+good matches: 125
+Brute-Froce match cost time: 0.033857
+pnp inliers: 123
+VO costs time: 0.055425
+extract keypoints cost time: 0.007238
+descriptor computation cost time: 0.012648
+good matches: 323
+Brute-Froce match cost time: 0.034212
+pnp inliers: 319
+VO costs time: 0.058074
+extract keypoints cost time: 0.008903
+descriptor computation cost time: 0.012039
+good matches: 83
+Brute-Froce match cost time: 0.035881
+pnp inliers: 79
+VO costs time: 0.058255
+extract keypoints cost time: 0.009304
+descriptor computation cost time: 0.00959
+good matches: 391
+Brute-Froce match cost time: 0.039081
+pnp inliers: 391
+VO costs time: 0.061455
+extract keypoints cost time: 0.011303
+descriptor computation cost time: 0.00919
+good matches: 229
+Brute-Froce match cost time: 0.033423
+pnp inliers: 228
+VO costs time: 0.055765
+extract keypoints cost time: 0.009967
+descriptor computation cost time: 0.009079
+good matches: 199
+Brute-Froce match cost time: 0.033457
+pnp inliers: 199
+VO costs time: 0.054428
+extract keypoints cost time: 0.008067
+descriptor computation cost time: 0.010291
+good matches: 119
+Brute-Froce match cost time: 0.032543
+pnp inliers: 116
+VO costs time: 0.052291
+extract keypoints cost time: 0.008323
+descriptor computation cost time: 0.009736
+good matches: 285
+Brute-Froce match cost time: 0.036071
+pnp inliers: 285
+VO costs time: 0.056569
+extract keypoints cost time: 0.012071
+descriptor computation cost time: 0.008567
+good matches: 152
+Brute-Froce match cost time: 0.034549
+pnp inliers: 152
+VO costs time: 0.057227
+extract keypoints cost time: 0.010516
+descriptor computation cost time: 0.008002
+good matches: 289
+Brute-Froce match cost time: 0.035862
+pnp inliers: 288
+VO costs time: 0.057067
+extract keypoints cost time: 0.008942
+descriptor computation cost time: 0.008679
+good matches: 167
+Brute-Froce match cost time: 0.03297
+pnp inliers: 163
+VO costs time: 0.052314
+extract keypoints cost time: 0.009814
+descriptor computation cost time: 0.012477
+good matches: 246
+Brute-Froce match cost time: 0.032045
+pnp inliers: 246
+VO costs time: 0.056462
+extract keypoints cost time: 0.010642
+descriptor computation cost time: 0.012365
+good matches: 318
+Brute-Froce match cost time: 0.036509
+pnp inliers: 318
+VO costs time: 0.062314
+extract keypoints cost time: 0.011108
+descriptor computation cost time: 0.008602
+good matches: 246
+Brute-Froce match cost time: 0.026898
+pnp inliers: 246
+VO costs time: 0.050265
+extract keypoints cost time: 0.007572
+descriptor computation cost time: 0.008613
+good matches: 293
+Brute-Froce match cost time: 0.036119
+pnp inliers: 293
+VO costs time: 0.054595
+extract keypoints cost time: 0.008427
+descriptor computation cost time: 0.012035
+good matches: 101
+Brute-Froce match cost time: 0.034788
+pnp inliers: 101
+VO costs time: 0.056682
+extract keypoints cost time: 0.008768
+descriptor computation cost time: 0.011136
+good matches: 170
+Brute-Froce match cost time: 0.033232
+pnp inliers: 170
+VO costs time: 0.054556
+extract keypoints cost time: 0.009865
+descriptor computation cost time: 0.012082
+good matches: 190
+Brute-Froce match cost time: 0.025973
+pnp inliers: 190
+VO costs time: 0.049817
+extract keypoints cost time: 0.006203
+descriptor computation cost time: 0.008959
+good matches: 89
+Brute-Froce match cost time: 0.034141
+pnp inliers: 80
+adding a key-frame
+Key frame size = 1
+VO costs time: 0.051758
+extract keypoints cost time: 0.005283
+descriptor computation cost time: 0.008452
+good matches: 196
+Brute-Froce match cost time: 0.025744
+pnp inliers: 189
+VO costs time: 0.042055
+extract keypoints cost time: 0.007487
+descriptor computation cost time: 0.011694
+good matches: 146
+Brute-Froce match cost time: 0.029456
+pnp inliers: 140
+VO costs time: 0.050338
+extract keypoints cost time: 0.008059
+descriptor computation cost time: 0.008137
+good matches: 168
+Brute-Froce match cost time: 0.033901
+pnp inliers: 168
+VO costs time: 0.051766
+extract keypoints cost time: 0.010067
+descriptor computation cost time: 0.011883
+good matches: 210
+Brute-Froce match cost time: 0.042552
+pnp inliers: 209
+VO costs time: 0.066339
+extract keypoints cost time: 0.00705
+descriptor computation cost time: 0.007885
+good matches: 56
+Brute-Froce match cost time: 0.033467
+pnp inliers: 55
+VO costs time: 0.050234
+extract keypoints cost time: 0.006046
+descriptor computation cost time: 0.008268
+good matches: 251
+Brute-Froce match cost time: 0.033024
+pnp inliers: 250
+VO costs time: 0.04947
+extract keypoints cost time: 0.004556
+descriptor computation cost time: 0.00789
+good matches: 87
+Brute-Froce match cost time: 0.037218
+pnp inliers: 76
+VO costs time: 0.051294
+extract keypoints cost time: 0.005684
+descriptor computation cost time: 0.011388
+good matches: 95
+Brute-Froce match cost time: 0.031954
+pnp inliers: 80
+VO costs time: 0.051103
+extract keypoints cost time: 0.005271
+descriptor computation cost time: 0.012558
+good matches: 97
+Brute-Froce match cost time: 0.032128
+pnp inliers: 88
+adding a key-frame
+Key frame size = 2
+VO costs time: 0.051736
+extract keypoints cost time: 0.008862
+descriptor computation cost time: 0.01208
+good matches: 140
+Brute-Froce match cost time: 0.031573
+pnp inliers: 137
+adding a key-frame
+Key frame size = 3
+VO costs time: 0.055721
+extract keypoints cost time: 0.008816
+descriptor computation cost time: 0.012257
+good matches: 68
+Brute-Froce match cost time: 0.028552
+pnp inliers: 67
+VO costs time: 0.050764
+extract keypoints cost time: 0.011023
+descriptor computation cost time: 0.014131
+good matches: 213
+Brute-Froce match cost time: 0.03806
+pnp inliers: 212
+VO costs time: 0.065637
+extract keypoints cost time: 0.010847
+descriptor computation cost time: 0.010801
+good matches: 137
+Brute-Froce match cost time: 0.035759
+pnp inliers: 137
+VO costs time: 0.058861
+extract keypoints cost time: 0.008182
+descriptor computation cost time: 0.009273
+good matches: 255
+Brute-Froce match cost time: 0.034213
+pnp inliers: 255
+VO costs time: 0.053614
+extract keypoints cost time: 0.006719
+descriptor computation cost time: 0.008269
+good matches: 325
+Brute-Froce match cost time: 0.032416
+pnp inliers: 325
+VO costs time: 0.05046
+extract keypoints cost time: 0.009026
+descriptor computation cost time: 0.008
+good matches: 218
+Brute-Froce match cost time: 0.035239
+pnp inliers: 218
+VO costs time: 0.054159
+extract keypoints cost time: 0.009102
+descriptor computation cost time: 0.008218
+good matches: 185
+Brute-Froce match cost time: 0.025767
+pnp inliers: 185
+VO costs time: 0.044818
+extract keypoints cost time: 0.008452
+descriptor computation cost time: 0.012857
+good matches: 329
+Brute-Froce match cost time: 0.026676
+pnp inliers: 329
+VO costs time: 0.050171
+extract keypoints cost time: 0.006251
+descriptor computation cost time: 0.012387
+good matches: 252
+Brute-Froce match cost time: 0.026321
+pnp inliers: 252
+VO costs time: 0.049273
+extract keypoints cost time: 0.008053
+descriptor computation cost time: 0.010375
+good matches: 274
+Brute-Froce match cost time: 0.029756
+pnp inliers: 274
+VO costs time: 0.050504
+extract keypoints cost time: 0.008937
+descriptor computation cost time: 0.011892
+good matches: 323
+Brute-Froce match cost time: 0.027639
+pnp inliers: 323
+VO costs time: 0.050727
+extract keypoints cost time: 0.00766
+descriptor computation cost time: 0.011108
+good matches: 284
+Brute-Froce match cost time: 0.034918
+pnp inliers: 284
+VO costs time: 0.05832
+extract keypoints cost time: 0.010609
+descriptor computation cost time: 0.011774
+good matches: 293
+Brute-Froce match cost time: 0.025834
+pnp inliers: 293
+VO costs time: 0.050494
+extract keypoints cost time: 0.010499
+descriptor computation cost time: 0.010614
+good matches: 314
+Brute-Froce match cost time: 0.034444
+pnp inliers: 314
+VO costs time: 0.059401
+extract keypoints cost time: 0.008726
+descriptor computation cost time: 0.011066
+good matches: 221
+Brute-Froce match cost time: 0.030056
+pnp inliers: 220
+VO costs time: 0.051997
+extract keypoints cost time: 0.007126
+descriptor computation cost time: 0.008836
+good matches: 291
+Brute-Froce match cost time: 0.026425
+pnp inliers: 291
+VO costs time: 0.047073
+extract keypoints cost time: 0.006016
+descriptor computation cost time: 0.008663
+good matches: 182
+Brute-Froce match cost time: 0.029743
+pnp inliers: 182
+VO costs time: 0.04692
+extract keypoints cost time: 0.007215
+descriptor computation cost time: 0.008936
+good matches: 221
+Brute-Froce match cost time: 0.027608
+pnp inliers: 221
+VO costs time: 0.047823
+extract keypoints cost time: 0.008698
+descriptor computation cost time: 0.010854
+good matches: 201
+Brute-Froce match cost time: 0.022677
+pnp inliers: 201
+VO costs time: 0.044888
+extract keypoints cost time: 0.008723
+descriptor computation cost time: 0.008848
+good matches: 270
+Brute-Froce match cost time: 0.031426
+pnp inliers: 270
+VO costs time: 0.05265
+extract keypoints cost time: 0.010766
+descriptor computation cost time: 0.010807
+good matches: 326
+Brute-Froce match cost time: 0.025455
+pnp inliers: 326
+VO costs time: 0.049387
+extract keypoints cost time: 0.009587
+descriptor computation cost time: 0.011183
+good matches: 293
+Brute-Froce match cost time: 0.028204
+pnp inliers: 293
+VO costs time: 0.051174
+extract keypoints cost time: 0.010759
+descriptor computation cost time: 0.011847
+good matches: 425
+Brute-Froce match cost time: 0.033423
+pnp inliers: 425
+VO costs time: 0.058974
+extract keypoints cost time: 0.006748
+descriptor computation cost time: 0.012279
+good matches: 281
+Brute-Froce match cost time: 0.043321
+pnp inliers: 281
+VO costs time: 0.06492
+extract keypoints cost time: 0.008395
+descriptor computation cost time: 0.01069
+good matches: 225
+Brute-Froce match cost time: 0.036885
+pnp inliers: 225
+VO costs time: 0.058271
+extract keypoints cost time: 0.008209
+descriptor computation cost time: 0.010697
+good matches: 346
+Brute-Froce match cost time: 0.031191
+pnp inliers: 345
+VO costs time: 0.052173
+extract keypoints cost time: 0.008994
+descriptor computation cost time: 0.011099
+good matches: 269
+Brute-Froce match cost time: 0.03444
+pnp inliers: 269
+VO costs time: 0.056635
+extract keypoints cost time: 0.011519
+descriptor computation cost time: 0.008803
+good matches: 429
+Brute-Froce match cost time: 0.030636
+pnp inliers: 429
+VO costs time: 0.054332
+extract keypoints cost time: 0.007783
+descriptor computation cost time: 0.00995
+good matches: 372
+Brute-Froce match cost time: 0.036564
+pnp inliers: 372
+VO costs time: 0.057782
+extract keypoints cost time: 0.00827
+descriptor computation cost time: 0.008171
+good matches: 371
+Brute-Froce match cost time: 0.0314
+pnp inliers: 371
+VO costs time: 0.052208
+extract keypoints cost time: 0.009778
+descriptor computation cost time: 0.011682
+good matches: 411
+Brute-Froce match cost time: 0.031027
+pnp inliers: 411
+VO costs time: 0.055605
+extract keypoints cost time: 0.01169
+descriptor computation cost time: 0.011237
+good matches: 372
+Brute-Froce match cost time: 0.03142
+pnp inliers: 372
+VO costs time: 0.05713
+extract keypoints cost time: 0.009073
+descriptor computation cost time: 0.013422
+good matches: 369
+Brute-Froce match cost time: 0.037282
+pnp inliers: 369
+VO costs time: 0.062516
+extract keypoints cost time: 0.01408
+descriptor computation cost time: 0.011369
+good matches: 370
+Brute-Froce match cost time: 0.027412
+pnp inliers: 370
+VO costs time: 0.055295
+extract keypoints cost time: 0.007886
+descriptor computation cost time: 0.009961
+good matches: 388
+Brute-Froce match cost time: 0.032391
+pnp inliers: 388
+VO costs time: 0.054273
+extract keypoints cost time: 0.009809
+descriptor computation cost time: 0.009128
+good matches: 432
+Brute-Froce match cost time: 0.035628
+pnp inliers: 432
+VO costs time: 0.056952
+extract keypoints cost time: 0.007019
+descriptor computation cost time: 0.009972
+good matches: 411
+Brute-Froce match cost time: 0.036771
+pnp inliers: 411
+VO costs time: 0.058186
+extract keypoints cost time: 0.007964
+descriptor computation cost time: 0.008815
+good matches: 412
+Brute-Froce match cost time: 0.038329
+pnp inliers: 412
+VO costs time: 0.057778
+extract keypoints cost time: 0.010272
+descriptor computation cost time: 0.008828
+good matches: 286
+Brute-Froce match cost time: 0.040437
+pnp inliers: 286
+VO costs time: 0.061827
+extract keypoints cost time: 0.010137
+descriptor computation cost time: 0.008177
+good matches: 346
+Brute-Froce match cost time: 0.032655
+pnp inliers: 346
+VO costs time: 0.053628
+extract keypoints cost time: 0.010868
+descriptor computation cost time: 0.009298
+good matches: 248
+Brute-Froce match cost time: 0.03198
+pnp inliers: 248
+VO costs time: 0.054409
+extract keypoints cost time: 0.009552
+descriptor computation cost time: 0.010472
+good matches: 344
+Brute-Froce match cost time: 0.03188
+pnp inliers: 344
+VO costs time: 0.054268
+extract keypoints cost time: 0.011113
+descriptor computation cost time: 0.009185
+good matches: 335
+Brute-Froce match cost time: 0.035184
+pnp inliers: 334
+VO costs time: 0.058945
+extract keypoints cost time: 0.009808
+descriptor computation cost time: 0.00951
+good matches: 306
+Brute-Froce match cost time: 0.037462
+pnp inliers: 306
+VO costs time: 0.059196
+extract keypoints cost time: 0.00731
+descriptor computation cost time: 0.008851
+good matches: 433
+Brute-Froce match cost time: 0.038259
+pnp inliers: 433
+VO costs time: 0.057443
+extract keypoints cost time: 0.009372
+descriptor computation cost time: 0.010579
+good matches: 349
+Brute-Froce match cost time: 0.038293
+pnp inliers: 349
+VO costs time: 0.06151
+extract keypoints cost time: 0.01009
+descriptor computation cost time: 0.008156
+good matches: 426
+Brute-Froce match cost time: 0.035357
+pnp inliers: 426
+VO costs time: 0.058894
+extract keypoints cost time: 0.011157
+descriptor computation cost time: 0.012045
+good matches: 324
+Brute-Froce match cost time: 0.032394
+pnp inliers: 324
+VO costs time: 0.059108
+extract keypoints cost time: 0.011173
+descriptor computation cost time: 0.011832
+good matches: 384
+Brute-Froce match cost time: 0.034267
+pnp inliers: 384
+VO costs time: 0.060112
+extract keypoints cost time: 0.009469
+descriptor computation cost time: 0.012688
+good matches: 418
+Brute-Froce match cost time: 0.034701
+pnp inliers: 418
+VO costs time: 0.059846
+extract keypoints cost time: 0.007465
+descriptor computation cost time: 0.009405
+good matches: 440
+Brute-Froce match cost time: 0.039443
+pnp inliers: 440
+VO costs time: 0.05963
+extract keypoints cost time: 0.01225
+descriptor computation cost time: 0.010409
+good matches: 377
+Brute-Froce match cost time: 0.038465
+pnp inliers: 377
+VO costs time: 0.063934
+extract keypoints cost time: 0.007707
+descriptor computation cost time: 0.010131
+good matches: 225
+Brute-Froce match cost time: 0.029362
+pnp inliers: 225
+VO costs time: 0.049533
+extract keypoints cost time: 0.007924
+descriptor computation cost time: 0.010549
+good matches: 227
+Brute-Froce match cost time: 0.036439
+pnp inliers: 227
+VO costs time: 0.05768
+extract keypoints cost time: 0.010729
+descriptor computation cost time: 0.009896
+good matches: 167
+Brute-Froce match cost time: 0.035471
+pnp inliers: 167
+VO costs time: 0.058564
+extract keypoints cost time: 0.008204
+descriptor computation cost time: 0.008266
+good matches: 236
+Brute-Froce match cost time: 0.033658
+pnp inliers: 236
+VO costs time: 0.051965
+extract keypoints cost time: 0.011545
+descriptor computation cost time: 0.009066
+good matches: 470
+Brute-Froce match cost time: 0.037715
+pnp inliers: 469
+VO costs time: 0.063187
+extract keypoints cost time: 0.007548
+descriptor computation cost time: 0.008083
+good matches: 409
+Brute-Froce match cost time: 0.040968
+pnp inliers: 409
+VO costs time: 0.060072
+extract keypoints cost time: 0.011872
+descriptor computation cost time: 0.008543
+good matches: 265
+Brute-Froce match cost time: 0.036171
+pnp inliers: 265
+VO costs time: 0.060024
+extract keypoints cost time: 0.010298
+descriptor computation cost time: 0.009329
+good matches: 271
+Brute-Froce match cost time: 0.040102
+pnp inliers: 271
+VO costs time: 0.061926
+extract keypoints cost time: 0.008365
+descriptor computation cost time: 0.011994
+good matches: 283
+Brute-Froce match cost time: 0.029077
+pnp inliers: 283
+VO costs time: 0.052634
+extract keypoints cost time: 0.00836
+descriptor computation cost time: 0.009017
+good matches: 371
+Brute-Froce match cost time: 0.04105
+pnp inliers: 371
+VO costs time: 0.063563
+extract keypoints cost time: 0.009783
+descriptor computation cost time: 0.013385
+good matches: 408
+Brute-Froce match cost time: 0.033565
+pnp inliers: 408
+VO costs time: 0.06029
+extract keypoints cost time: 0.009443
+descriptor computation cost time: 0.01043
+good matches: 212
+Brute-Froce match cost time: 0.035688
+pnp inliers: 212
+VO costs time: 0.057419
+extract keypoints cost time: 0.006074
+descriptor computation cost time: 0.009731
+good matches: 204
+Brute-Froce match cost time: 0.03873
+pnp inliers: 204
+VO costs time: 0.057339
+extract keypoints cost time: 0.01196
+descriptor computation cost time: 0.008737
+good matches: 185
+Brute-Froce match cost time: 0.031791
+pnp inliers: 184
+VO costs time: 0.054244
+extract keypoints cost time: 0.006867
+descriptor computation cost time: 0.015239
+good matches: 181
+Brute-Froce match cost time: 0.03288
+pnp inliers: 181
+VO costs time: 0.056794
+extract keypoints cost time: 0.008292
+descriptor computation cost time: 0.012832
+good matches: 106
+Brute-Froce match cost time: 0.032542
+pnp inliers: 106
+VO costs time: 0.055015
+extract keypoints cost time: 0.007009
+descriptor computation cost time: 0.013426
+good matches: 143
+Brute-Froce match cost time: 0.033977
+pnp inliers: 143
+VO costs time: 0.056096
+extract keypoints cost time: 0.010241
+descriptor computation cost time: 0.009609
+good matches: 334
+Brute-Froce match cost time: 0.03276
+pnp inliers: 334
+VO costs time: 0.054785
+extract keypoints cost time: 0.011105
+descriptor computation cost time: 0.008522
+good matches: 357
+Brute-Froce match cost time: 0.033575
+pnp inliers: 357
+VO costs time: 0.056192
+extract keypoints cost time: 0.007829
+descriptor computation cost time: 0.009043
+good matches: 399
+Brute-Froce match cost time: 0.038606
+pnp inliers: 399
+VO costs time: 0.059773
+extract keypoints cost time: 0.008072
+descriptor computation cost time: 0.014428
+good matches: 301
+Brute-Froce match cost time: 0.043718
+pnp inliers: 301
+VO costs time: 0.068828
+extract keypoints cost time: 0.011232
+descriptor computation cost time: 0.010472
+good matches: 363
+Brute-Froce match cost time: 0.033015
+pnp inliers: 363
+VO costs time: 0.057756
+extract keypoints cost time: 0.008134
+descriptor computation cost time: 0.01326
+good matches: 377
+Brute-Froce match cost time: 0.038387
+pnp inliers: 377
+VO costs time: 0.063691
+extract keypoints cost time: 0.007371
+descriptor computation cost time: 0.008526
+good matches: 297
+Brute-Froce match cost time: 0.03885
+pnp inliers: 297
+VO costs time: 0.057275
+extract keypoints cost time: 0.009629
+descriptor computation cost time: 0.010498
+good matches: 426
+Brute-Froce match cost time: 0.038238
+pnp inliers: 426
+VO costs time: 0.06133
+extract keypoints cost time: 0.007096
+descriptor computation cost time: 0.00869
+good matches: 375
+Brute-Froce match cost time: 0.040556
+pnp inliers: 375
+VO costs time: 0.059194
+extract keypoints cost time: 0.010878
+descriptor computation cost time: 0.010186
+good matches: 254
+Brute-Froce match cost time: 0.034169
+pnp inliers: 254
+VO costs time: 0.059309
+extract keypoints cost time: 0.008344
+descriptor computation cost time: 0.010951
+good matches: 315
+Brute-Froce match cost time: 0.037658
+pnp inliers: 315
+VO costs time: 0.06004
+extract keypoints cost time: 0.005546
+descriptor computation cost time: 0.009561
+good matches: 346
+Brute-Froce match cost time: 0.038515
+pnp inliers: 346
+VO costs time: 0.056135
+extract keypoints cost time: 0.005601
+descriptor computation cost time: 0.011997
+good matches: 231
+Brute-Froce match cost time: 0.036264
+pnp inliers: 231
+VO costs time: 0.058083
+extract keypoints cost time: 0.00709
+descriptor computation cost time: 0.011582
+good matches: 282
+Brute-Froce match cost time: 0.034173
+pnp inliers: 280
+VO costs time: 0.056064
+extract keypoints cost time: 0.007523
+descriptor computation cost time: 0.008541
+good matches: 179
+Brute-Froce match cost time: 0.030099
+pnp inliers: 178
+VO costs time: 0.051756
+extract keypoints cost time: 0.007488
+descriptor computation cost time: 0.009389
+good matches: 222
+Brute-Froce match cost time: 0.025595
+pnp inliers: 222
+VO costs time: 0.04472
+extract keypoints cost time: 0.010368
+descriptor computation cost time: 0.011179
+good matches: 289
+Brute-Froce match cost time: 0.030423
+pnp inliers: 289
+VO costs time: 0.054242
+extract keypoints cost time: 0.007342
+descriptor computation cost time: 0.010518
+good matches: 341
+Brute-Froce match cost time: 0.027199
+pnp inliers: 341
+VO costs time: 0.049221
+extract keypoints cost time: 0.008109
+descriptor computation cost time: 0.009997
+good matches: 347
+Brute-Froce match cost time: 0.03527
+pnp inliers: 347
+VO costs time: 0.056465
+extract keypoints cost time: 0.010917
+descriptor computation cost time: 0.012182
+good matches: 351
+Brute-Froce match cost time: 0.036054
+pnp inliers: 351
+VO costs time: 0.064445
+extract keypoints cost time: 0.007697
+descriptor computation cost time: 0.012648
+good matches: 348
+Brute-Froce match cost time: 0.036628
+pnp inliers: 348
+VO costs time: 0.061462
+extract keypoints cost time: 0.006913
+descriptor computation cost time: 0.010212
+good matches: 315
+Brute-Froce match cost time: 0.037479
+pnp inliers: 315
+VO costs time: 0.057775
+extract keypoints cost time: 0.0093
+descriptor computation cost time: 0.014775
+good matches: 313
+Brute-Froce match cost time: 0.031618
+pnp inliers: 313
+VO costs time: 0.058933
+extract keypoints cost time: 0.00683
+descriptor computation cost time: 0.007791
+good matches: 219
+Brute-Froce match cost time: 0.026817
+pnp inliers: 219
+VO costs time: 0.043755
+extract keypoints cost time: 0.006324
+descriptor computation cost time: 0.009971
+good matches: 135
+Brute-Froce match cost time: 0.017049
+pnp inliers: 134
+VO costs time: 0.035769
+extract keypoints cost time: 0.005714
+descriptor computation cost time: 0.007542
+good matches: 182
+Brute-Froce match cost time: 0.0132
+pnp inliers: 181
+VO costs time: 0.028612
+extract keypoints cost time: 0.005485
+descriptor computation cost time: 0.013286
+good matches: 214
+Brute-Froce match cost time: 0.017057
+pnp inliers: 214
+VO costs time: 0.037952
+extract keypoints cost time: 0.00747
+descriptor computation cost time: 0.012555
+good matches: 219
+Brute-Froce match cost time: 0.024463
+pnp inliers: 219
+VO costs time: 0.046495
+extract keypoints cost time: 0.007526
+descriptor computation cost time: 0.009846
+good matches: 198
+Brute-Froce match cost time: 0.025171
+pnp inliers: 198
+VO costs time: 0.045133
+extract keypoints cost time: 0.008983
+descriptor computation cost time: 0.010266
+good matches: 232
+Brute-Froce match cost time: 0.01973
+pnp inliers: 232
+VO costs time: 0.041457
+extract keypoints cost time: 0.00907
+descriptor computation cost time: 0.010775
+good matches: 225
+Brute-Froce match cost time: 0.035842
+pnp inliers: 225
+VO costs time: 0.058163
+extract keypoints cost time: 0.005619
+descriptor computation cost time: 0.008495
+good matches: 256
+Brute-Froce match cost time: 0.030582
+pnp inliers: 256
+VO costs time: 0.047694
+extract keypoints cost time: 0.005863
+descriptor computation cost time: 0.012625
+good matches: 228
+Brute-Froce match cost time: 0.034273
+pnp inliers: 228
+VO costs time: 0.055162
+extract keypoints cost time: 0.006894
+descriptor computation cost time: 0.009406
+good matches: 224
+Brute-Froce match cost time: 0.035029
+pnp inliers: 224
+VO costs time: 0.054288
+extract keypoints cost time: 0.009612
+descriptor computation cost time: 0.010359
+good matches: 276
+Brute-Froce match cost time: 0.03137
+pnp inliers: 276
+VO costs time: 0.05346
+extract keypoints cost time: 0.006193
+descriptor computation cost time: 0.013735
+good matches: 246
+Brute-Froce match cost time: 0.032426
+pnp inliers: 246
+VO costs time: 0.054502
+extract keypoints cost time: 0.007855
+descriptor computation cost time: 0.01056
+good matches: 289
+Brute-Froce match cost time: 0.036528
+pnp inliers: 289
+VO costs time: 0.057668
+extract keypoints cost time: 0.006031
+descriptor computation cost time: 0.010843
+good matches: 151
+Brute-Froce match cost time: 0.038655
+pnp inliers: 151
+VO costs time: 0.057099
+extract keypoints cost time: 0.008633
+descriptor computation cost time: 0.011881
+good matches: 342
+Brute-Froce match cost time: 0.031537
+pnp inliers: 342
+VO costs time: 0.054766
+extract keypoints cost time: 0.010138
+descriptor computation cost time: 0.010815
+good matches: 287
+Brute-Froce match cost time: 0.028947
+pnp inliers: 287
+VO costs time: 0.053003
+extract keypoints cost time: 0.008357
+descriptor computation cost time: 0.011716
+good matches: 221
+Brute-Froce match cost time: 0.030435
+pnp inliers: 221
+VO costs time: 0.052266
+extract keypoints cost time: 0.006216
+descriptor computation cost time: 0.011427
+good matches: 327
+Brute-Froce match cost time: 0.040618
+pnp inliers: 327
+VO costs time: 0.061113
+extract keypoints cost time: 0.006309
+descriptor computation cost time: 0.010135
+good matches: 294
+Brute-Froce match cost time: 0.035216
+pnp inliers: 294
+VO costs time: 0.053965
+extract keypoints cost time: 0.010368
+descriptor computation cost time: 0.011083
+good matches: 306
+Brute-Froce match cost time: 0.036161
+pnp inliers: 306
+VO costs time: 0.061555
+extract keypoints cost time: 0.008283
+descriptor computation cost time: 0.012331
+good matches: 189
+Brute-Froce match cost time: 0.028268
+pnp inliers: 189
+VO costs time: 0.051588
+extract keypoints cost time: 0.008647
+descriptor computation cost time: 0.01014
+good matches: 220
+Brute-Froce match cost time: 0.035774
+pnp inliers: 220
+VO costs time: 0.056568
+extract keypoints cost time: 0.006949
+descriptor computation cost time: 0.009704
+good matches: 332
+Brute-Froce match cost time: 0.037869
+pnp inliers: 332
+VO costs time: 0.058386
+extract keypoints cost time: 0.006409
+descriptor computation cost time: 0.012435
+good matches: 120
+Brute-Froce match cost time: 0.039065
+pnp inliers: 119
+VO costs time: 0.05966
+extract keypoints cost time: 0.009644
+descriptor computation cost time: 0.009446
+good matches: 308
+Brute-Froce match cost time: 0.037172
+pnp inliers: 308
+VO costs time: 0.059296
+extract keypoints cost time: 0.007796
+descriptor computation cost time: 0.019206
+good matches: 114
+Brute-Froce match cost time: 0.032871
+pnp inliers: 114
+VO costs time: 0.061493
+extract keypoints cost time: 0.012369
+descriptor computation cost time: 0.010052
+good matches: 179
+Brute-Froce match cost time: 0.033707
+pnp inliers: 179
+VO costs time: 0.057927
+extract keypoints cost time: 0.005688
+descriptor computation cost time: 0.014006
+good matches: 155
+Brute-Froce match cost time: 0.034607
+pnp inliers: 154
+VO costs time: 0.055995
+extract keypoints cost time: 0.008525
+descriptor computation cost time: 0.010213
+good matches: 159
+Brute-Froce match cost time: 0.037935
+pnp inliers: 159
+VO costs time: 0.060405
+extract keypoints cost time: 0.009336
+descriptor computation cost time: 0.012761
+good matches: 387
+Brute-Froce match cost time: 0.035351
+pnp inliers: 387
+VO costs time: 0.060238
+extract keypoints cost time: 0.013253
+descriptor computation cost time: 0.01458
+good matches: 301
+Brute-Froce match cost time: 0.031583
+pnp inliers: 301
+VO costs time: 0.061839
+extract keypoints cost time: 0.00942
+descriptor computation cost time: 0.010865
+good matches: 267
+Brute-Froce match cost time: 0.039925
+pnp inliers: 267
+VO costs time: 0.06282
+extract keypoints cost time: 0.010471
+descriptor computation cost time: 0.012615
+good matches: 324
+Brute-Froce match cost time: 0.035944
+pnp inliers: 324
+VO costs time: 0.062165
+extract keypoints cost time: 0.012598
+descriptor computation cost time: 0.014202
+good matches: 351
+Brute-Froce match cost time: 0.050867
+pnp inliers: 351
+VO costs time: 0.08064
+extract keypoints cost time: 0.012393
+descriptor computation cost time: 0.010837
+good matches: 406
+Brute-Froce match cost time: 0.037727
+pnp inliers: 406
+VO costs time: 0.063631
+extract keypoints cost time: 0.012226
+descriptor computation cost time: 0.012723
+good matches: 332
+Brute-Froce match cost time: 0.032008
+pnp inliers: 332
+VO costs time: 0.060528
+extract keypoints cost time: 0.009687
+descriptor computation cost time: 0.010843
+good matches: 261
+Brute-Froce match cost time: 0.037762
+pnp inliers: 261
+VO costs time: 0.060747
+extract keypoints cost time: 0.009413
+descriptor computation cost time: 0.008798
+good matches: 372
+Brute-Froce match cost time: 0.037517
+pnp inliers: 372
+VO costs time: 0.058131
+extract keypoints cost time: 0.011191
+descriptor computation cost time: 0.01
+good matches: 318
+Brute-Froce match cost time: 0.037765
+pnp inliers: 318
+VO costs time: 0.061644
+extract keypoints cost time: 0.009585
+descriptor computation cost time: 0.013209
+good matches: 224
+Brute-Froce match cost time: 0.039688
+pnp inliers: 224
+VO costs time: 0.065675
+extract keypoints cost time: 0.009648
+descriptor computation cost time: 0.011519
+good matches: 345
+Brute-Froce match cost time: 0.037985
+pnp inliers: 345
+VO costs time: 0.061814
+extract keypoints cost time: 0.009721
+descriptor computation cost time: 0.010839
+good matches: 239
+Brute-Froce match cost time: 0.037097
+pnp inliers: 238
+VO costs time: 0.061025
+extract keypoints cost time: 0.008154
+descriptor computation cost time: 0.011726
+good matches: 257
+Brute-Froce match cost time: 0.036278
+pnp inliers: 257
+VO costs time: 0.058182
+extract keypoints cost time: 0.008806
+descriptor computation cost time: 0.009307
+good matches: 350
+Brute-Froce match cost time: 0.031982
+pnp inliers: 350
+VO costs time: 0.053466
+extract keypoints cost time: 0.011655
+descriptor computation cost time: 0.009226
+good matches: 288
+Brute-Froce match cost time: 0.032986
+pnp inliers: 288
+VO costs time: 0.056027
+extract keypoints cost time: 0.008154
+descriptor computation cost time: 0.010843
+good matches: 344
+Brute-Froce match cost time: 0.034942
+pnp inliers: 343
+VO costs time: 0.056232
+extract keypoints cost time: 0.009806
+descriptor computation cost time: 0.010383
+good matches: 217
+Brute-Froce match cost time: 0.034014
+pnp inliers: 217
+VO costs time: 0.057061
+extract keypoints cost time: 0.010176
+descriptor computation cost time: 0.0088
+good matches: 379
+Brute-Froce match cost time: 0.033799
+pnp inliers: 379
+VO costs time: 0.058477
+extract keypoints cost time: 0.010686
+descriptor computation cost time: 0.012572
+good matches: 327
+Brute-Froce match cost time: 0.036035
+pnp inliers: 327
+VO costs time: 0.061876
+extract keypoints cost time: 0.012266
+descriptor computation cost time: 0.009683
+good matches: 315
+Brute-Froce match cost time: 0.033448
+pnp inliers: 315
+VO costs time: 0.057821
+extract keypoints cost time: 0.012431
+descriptor computation cost time: 0.011167
+good matches: 352
+Brute-Froce match cost time: 0.032441
+pnp inliers: 352
+VO costs time: 0.05855
+extract keypoints cost time: 0.00941
+descriptor computation cost time: 0.011774
+good matches: 313
+Brute-Froce match cost time: 0.031682
+pnp inliers: 313
+VO costs time: 0.05534
+extract keypoints cost time: 0.008654
+descriptor computation cost time: 0.009728
+good matches: 103
+Brute-Froce match cost time: 0.03074
+pnp inliers: 103
+VO costs time: 0.050592
+extract keypoints cost time: 0.008086
+descriptor computation cost time: 0.00875
+good matches: 339
+Brute-Froce match cost time: 0.029704
+pnp inliers: 336
+VO costs time: 0.050204
+extract keypoints cost time: 0.008176
+descriptor computation cost time: 0.00921
+good matches: 327
+Brute-Froce match cost time: 0.030145
+pnp inliers: 325
+VO costs time: 0.04958
+extract keypoints cost time: 0.006392
+descriptor computation cost time: 0.008435
+good matches: 153
+Brute-Froce match cost time: 0.039021
+pnp inliers: 152
+VO costs time: 0.055629
+extract keypoints cost time: 0.007557
+descriptor computation cost time: 0.008693
+good matches: 190
+Brute-Froce match cost time: 0.037141
+pnp inliers: 189
+VO costs time: 0.055072
+extract keypoints cost time: 0.00757
+descriptor computation cost time: 0.010129
+good matches: 177
+Brute-Froce match cost time: 0.034045
+pnp inliers: 177
+VO costs time: 0.053795
+extract keypoints cost time: 0.008187
+descriptor computation cost time: 0.009301
+good matches: 215
+Brute-Froce match cost time: 0.033473
+pnp inliers: 215
+VO costs time: 0.052994
+extract keypoints cost time: 0.00656
+descriptor computation cost time: 0.008709
+good matches: 208
+Brute-Froce match cost time: 0.035231
+pnp inliers: 206
+VO costs time: 0.054782
+extract keypoints cost time: 0.007709
+descriptor computation cost time: 0.008491
+good matches: 198
+Brute-Froce match cost time: 0.03417
+pnp inliers: 197
+VO costs time: 0.051999
+extract keypoints cost time: 0.010015
+descriptor computation cost time: 0.012525
+good matches: 304
+Brute-Froce match cost time: 0.04131
+pnp inliers: 304
+VO costs time: 0.066491
+extract keypoints cost time: 0.007805
+descriptor computation cost time: 0.008551
+good matches: 226
+Brute-Froce match cost time: 0.036005
+pnp inliers: 226
+VO costs time: 0.057001
+extract keypoints cost time: 0.008392
+descriptor computation cost time: 0.00831
+good matches: 279
+Brute-Froce match cost time: 0.033396
+pnp inliers: 279
+VO costs time: 0.053424
+extract keypoints cost time: 0.007765
+descriptor computation cost time: 0.012216
+good matches: 363
+Brute-Froce match cost time: 0.034239
+pnp inliers: 360
+VO costs time: 0.057026
+extract keypoints cost time: 0.007303
+descriptor computation cost time: 0.009474
+good matches: 367
+Brute-Froce match cost time: 0.034035
+pnp inliers: 367
+VO costs time: 0.053963
+extract keypoints cost time: 0.008266
+descriptor computation cost time: 0.010007
+good matches: 275
+Brute-Froce match cost time: 0.035704
+pnp inliers: 275
+VO costs time: 0.056485
+extract keypoints cost time: 0.006507
+descriptor computation cost time: 0.010575
+good matches: 51
+Brute-Froce match cost time: 0.035029
+pnp inliers: 51
+VO costs time: 0.053825
+extract keypoints cost time: 0.007119
+descriptor computation cost time: 0.009189
+good matches: 407
+Brute-Froce match cost time: 0.037183
+pnp inliers: 404
+VO costs time: 0.056052
+extract keypoints cost time: 0.006987
+descriptor computation cost time: 0.009302
+good matches: 389
+Brute-Froce match cost time: 0.036969
+pnp inliers: 383
+VO costs time: 0.056193
+extract keypoints cost time: 0.01119
+descriptor computation cost time: 0.011484
+good matches: 388
+Brute-Froce match cost time: 0.035923
+pnp inliers: 388
+VO costs time: 0.06346
+extract keypoints cost time: 0.008364
+descriptor computation cost time: 0.010533
+good matches: 390
+Brute-Froce match cost time: 0.041479
+pnp inliers: 389
+VO costs time: 0.06366
+extract keypoints cost time: 0.013032
+descriptor computation cost time: 0.010886
+good matches: 263
+Brute-Froce match cost time: 0.035177
+pnp inliers: 257
+VO costs time: 0.061816
+extract keypoints cost time: 0.007408
+descriptor computation cost time: 0.008635
+good matches: 322
+Brute-Froce match cost time: 0.036894
+pnp inliers: 322
+VO costs time: 0.057443
+extract keypoints cost time: 0.009819
+descriptor computation cost time: 0.012653
+good matches: 323
+Brute-Froce match cost time: 0.039055
+pnp inliers: 321
+VO costs time: 0.063881
+extract keypoints cost time: 0.011894
+descriptor computation cost time: 0.011336
+good matches: 225
+Brute-Froce match cost time: 0.033811
+pnp inliers: 224
+VO costs time: 0.059325
+extract keypoints cost time: 0.009676
+descriptor computation cost time: 0.013188
+good matches: 312
+Brute-Froce match cost time: 0.03663
+pnp inliers: 309
+VO costs time: 0.061688
+extract keypoints cost time: 0.012888
+descriptor computation cost time: 0.01181
+good matches: 350
+Brute-Froce match cost time: 0.037638
+pnp inliers: 349
+VO costs time: 0.066433
+extract keypoints cost time: 0.008298
+descriptor computation cost time: 0.010107
+good matches: 373
+Brute-Froce match cost time: 0.036111
+pnp inliers: 373
+VO costs time: 0.059192
+extract keypoints cost time: 0.012228
+descriptor computation cost time: 0.012519
+good matches: 329
+Brute-Froce match cost time: 0.031362
+pnp inliers: 329
+VO costs time: 0.059776
+extract keypoints cost time: 0.010751
+descriptor computation cost time: 0.007986
+good matches: 284
+Brute-Froce match cost time: 0.03588
+pnp inliers: 284
+VO costs time: 0.056983
+extract keypoints cost time: 0.008921
+descriptor computation cost time: 0.008322
+good matches: 380
+Brute-Froce match cost time: 0.03294
+pnp inliers: 380
+VO costs time: 0.053528
+extract keypoints cost time: 0.010699
+descriptor computation cost time: 0.008026
+good matches: 336
+Brute-Froce match cost time: 0.033508
+pnp inliers: 336
+VO costs time: 0.055897
+extract keypoints cost time: 0.008894
+descriptor computation cost time: 0.009
+good matches: 365
+Brute-Froce match cost time: 0.03332
+pnp inliers: 365
+VO costs time: 0.053978
+extract keypoints cost time: 0.012934
+descriptor computation cost time: 0.010409
+good matches: 351
+Brute-Froce match cost time: 0.03253
+pnp inliers: 351
+VO costs time: 0.058078
+extract keypoints cost time: 0.010603
+descriptor computation cost time: 0.011701
+good matches: 293
+Brute-Froce match cost time: 0.029581
+pnp inliers: 293
+VO costs time: 0.054203
+extract keypoints cost time: 0.010608
+descriptor computation cost time: 0.012431
+good matches: 374
+Brute-Froce match cost time: 0.032092
+pnp inliers: 374
+VO costs time: 0.057702
+extract keypoints cost time: 0.009158
+descriptor computation cost time: 0.014626
+good matches: 347
+Brute-Froce match cost time: 0.028622
+pnp inliers: 347
+VO costs time: 0.055302
+extract keypoints cost time: 0.011959
+descriptor computation cost time: 0.008528
+good matches: 351
+Brute-Froce match cost time: 0.033595
+pnp inliers: 351
+VO costs time: 0.057091
+extract keypoints cost time: 0.007257
+descriptor computation cost time: 0.008299
+good matches: 283
+Brute-Froce match cost time: 0.028007
+pnp inliers: 281
+VO costs time: 0.046007
+extract keypoints cost time: 0.010517
+descriptor computation cost time: 0.011107
+good matches: 197
+Brute-Froce match cost time: 0.031088
+pnp inliers: 196
+VO costs time: 0.055619
+extract keypoints cost time: 0.00762
+descriptor computation cost time: 0.010622
+good matches: 203
+Brute-Froce match cost time: 0.03451
+pnp inliers: 200
+VO costs time: 0.057238
+extract keypoints cost time: 0.007311
+descriptor computation cost time: 0.009255
+good matches: 216
+Brute-Froce match cost time: 0.02898
+pnp inliers: 216
+VO costs time: 0.048725
+extract keypoints cost time: 0.011074
+descriptor computation cost time: 0.014196
+good matches: 339
+Brute-Froce match cost time: 0.04111
+pnp inliers: 338
+VO costs time: 0.070562
+extract keypoints cost time: 0.008444
+descriptor computation cost time: 0.010764
+good matches: 242
+Brute-Froce match cost time: 0.031105
+pnp inliers: 234
+VO costs time: 0.052828
+extract keypoints cost time: 0.007416
+descriptor computation cost time: 0.00866
+good matches: 292
+Brute-Froce match cost time: 0.034543
+pnp inliers: 291
+VO costs time: 0.052713
+extract keypoints cost time: 0.008157
+descriptor computation cost time: 0.009857
+good matches: 197
+Brute-Froce match cost time: 0.028957
+pnp inliers: 196
+VO costs time: 0.048408
+extract keypoints cost time: 0.010905
+descriptor computation cost time: 0.010381
+good matches: 285
+Brute-Froce match cost time: 0.035485
+pnp inliers: 284
+VO costs time: 0.05994
+extract keypoints cost time: 0.008203
+descriptor computation cost time: 0.008295
+good matches: 357
+Brute-Froce match cost time: 0.028815
+pnp inliers: 356
+VO costs time: 0.047403
+extract keypoints cost time: 0.010882
+descriptor computation cost time: 0.010812
+good matches: 315
+Brute-Froce match cost time: 0.027392
+pnp inliers: 315
+VO costs time: 0.051227
+extract keypoints cost time: 0.007603
+descriptor computation cost time: 0.010511
+good matches: 257
+Brute-Froce match cost time: 0.026798
+pnp inliers: 257
+VO costs time: 0.048031
+extract keypoints cost time: 0.009467
+descriptor computation cost time: 0.008948
+good matches: 250
+Brute-Froce match cost time: 0.033168
+pnp inliers: 250
+VO costs time: 0.053642
+extract keypoints cost time: 0.008837
+descriptor computation cost time: 0.009426
+good matches: 149
+Brute-Froce match cost time: 0.029316
+pnp inliers: 149
+VO costs time: 0.049439
+extract keypoints cost time: 0.007113
+descriptor computation cost time: 0.011573
+good matches: 216
+Brute-Froce match cost time: 0.032393
+pnp inliers: 216
+VO costs time: 0.05296
+extract keypoints cost time: 0.00775
+descriptor computation cost time: 0.010703
+good matches: 272
+Brute-Froce match cost time: 0.032147
+pnp inliers: 272
+VO costs time: 0.052429
+extract keypoints cost time: 0.007301
+descriptor computation cost time: 0.008026
+good matches: 360
+Brute-Froce match cost time: 0.029609
+pnp inliers: 358
+VO costs time: 0.048946
+extract keypoints cost time: 0.011528
+descriptor computation cost time: 0.011731
+good matches: 164
+Brute-Froce match cost time: 0.033036
+pnp inliers: 164
+VO costs time: 0.057955
+extract keypoints cost time: 0.008201
+descriptor computation cost time: 0.012273
+good matches: 362
+Brute-Froce match cost time: 0.032892
+pnp inliers: 362
+VO costs time: 0.05658
+extract keypoints cost time: 0.009478
+descriptor computation cost time: 0.008011
+good matches: 337
+Brute-Froce match cost time: 0.031924
+pnp inliers: 336
+VO costs time: 0.051921
+extract keypoints cost time: 0.006806
+descriptor computation cost time: 0.010423
+good matches: 293
+Brute-Froce match cost time: 0.026799
+pnp inliers: 293
+VO costs time: 0.046784
+extract keypoints cost time: 0.007276
+descriptor computation cost time: 0.009861
+good matches: 268
+Brute-Froce match cost time: 0.023454
+pnp inliers: 268
+VO costs time: 0.042777
+extract keypoints cost time: 0.006308
+descriptor computation cost time: 0.008989
+good matches: 211
+Brute-Froce match cost time: 0.032986
+pnp inliers: 211
+VO costs time: 0.050802
+extract keypoints cost time: 0.011108
+descriptor computation cost time: 0.012409
+good matches: 307
+Brute-Froce match cost time: 0.032427
+pnp inliers: 307
+VO costs time: 0.058075
+extract keypoints cost time: 0.007042
+descriptor computation cost time: 0.010706
+good matches: 82
+Brute-Froce match cost time: 0.02549
+pnp inliers: 81
+VO costs time: 0.044928
+extract keypoints cost time: 0.009302
+descriptor computation cost time: 0.00784
+good matches: 352
+Brute-Froce match cost time: 0.031398
+pnp inliers: 350
+VO costs time: 0.051056
+extract keypoints cost time: 0.006567
+descriptor computation cost time: 0.008631
+good matches: 205
+Brute-Froce match cost time: 0.026006
+pnp inliers: 205
+VO costs time: 0.044398
+extract keypoints cost time: 0.007479
+descriptor computation cost time: 0.012123
+good matches: 327
+Brute-Froce match cost time: 0.030252
+pnp inliers: 327
+VO costs time: 0.051803
+extract keypoints cost time: 0.006825
+descriptor computation cost time: 0.009733
+good matches: 224
+Brute-Froce match cost time: 0.032631
+pnp inliers: 224
+VO costs time: 0.052271
+extract keypoints cost time: 0.013373
+descriptor computation cost time: 0.013209
+good matches: 301
+Brute-Froce match cost time: 0.044302
+pnp inliers: 301
+VO costs time: 0.075107
+extract keypoints cost time: 0.006769
+descriptor computation cost time: 0.007834
+good matches: 336
+Brute-Froce match cost time: 0.032095
+pnp inliers: 336
+VO costs time: 0.049422
+extract keypoints cost time: 0.008456
+descriptor computation cost time: 0.010153
+good matches: 338
+Brute-Froce match cost time: 0.035082
+pnp inliers: 338
+VO costs time: 0.057823
+extract keypoints cost time: 0.00665
+descriptor computation cost time: 0.008405
+good matches: 295
+Brute-Froce match cost time: 0.034185
+pnp inliers: 295
+VO costs time: 0.052021
+extract keypoints cost time: 0.006622
+descriptor computation cost time: 0.009224
+good matches: 463
+Brute-Froce match cost time: 0.033897
+pnp inliers: 463
+VO costs time: 0.054962
+extract keypoints cost time: 0.00671
+descriptor computation cost time: 0.007856
+good matches: 374
+Brute-Froce match cost time: 0.030443
+pnp inliers: 373
+VO costs time: 0.049998
+extract keypoints cost time: 0.008378
+descriptor computation cost time: 0.011728
+good matches: 447
+Brute-Froce match cost time: 0.033083
+pnp inliers: 446
+VO costs time: 0.056143
+extract keypoints cost time: 0.006604
+descriptor computation cost time: 0.007866
+good matches: 417
+Brute-Froce match cost time: 0.030839
+pnp inliers: 417
+VO costs time: 0.048449
+extract keypoints cost time: 0.00699
+descriptor computation cost time: 0.007983
+good matches: 374
+Brute-Froce match cost time: 0.029293
+pnp inliers: 374
+VO costs time: 0.048767
+extract keypoints cost time: 0.008503
+descriptor computation cost time: 0.00828
+good matches: 381
+Brute-Froce match cost time: 0.0262
+pnp inliers: 381
+VO costs time: 0.046695
+extract keypoints cost time: 0.010796
+descriptor computation cost time: 0.010405
+good matches: 406
+Brute-Froce match cost time: 0.03279
+pnp inliers: 406
+VO costs time: 0.056896
+extract keypoints cost time: 0.008667
+descriptor computation cost time: 0.010203
+good matches: 430
+Brute-Froce match cost time: 0.03443
+pnp inliers: 430
+VO costs time: 0.056111
+extract keypoints cost time: 0.009699
+descriptor computation cost time: 0.010665
+good matches: 406
+Brute-Froce match cost time: 0.028128
+pnp inliers: 406
+VO costs time: 0.051923
+extract keypoints cost time: 0.011425
+descriptor computation cost time: 0.008584
+good matches: 423
+Brute-Froce match cost time: 0.025343
+pnp inliers: 423
+VO costs time: 0.048476
+extract keypoints cost time: 0.008577
+descriptor computation cost time: 0.010879
+good matches: 445
+Brute-Froce match cost time: 0.031305
+pnp inliers: 445
+VO costs time: 0.054599
+extract keypoints cost time: 0.00674
+descriptor computation cost time: 0.011354
+good matches: 451
+Brute-Froce match cost time: 0.030026
+pnp inliers: 451
+VO costs time: 0.050874
+extract keypoints cost time: 0.006797
+descriptor computation cost time: 0.008073
+good matches: 467
+Brute-Froce match cost time: 0.030974
+pnp inliers: 467
+VO costs time: 0.049962
+extract keypoints cost time: 0.009924
+descriptor computation cost time: 0.010182
+good matches: 344
+Brute-Froce match cost time: 0.03436
+pnp inliers: 343
+VO costs time: 0.058791
+extract keypoints cost time: 0.006449
+descriptor computation cost time: 0.008915
+good matches: 423
+Brute-Froce match cost time: 0.029951
+pnp inliers: 423
+VO costs time: 0.047881
+extract keypoints cost time: 0.006185
+descriptor computation cost time: 0.008917
+good matches: 384
+Brute-Froce match cost time: 0.036985
+pnp inliers: 384
+VO costs time: 0.055368
+extract keypoints cost time: 0.006736
+descriptor computation cost time: 0.009322
+good matches: 416
+Brute-Froce match cost time: 0.030282
+pnp inliers: 416
+VO costs time: 0.048777
+extract keypoints cost time: 0.005602
+descriptor computation cost time: 0.008173
+good matches: 308
+Brute-Froce match cost time: 0.030082
+pnp inliers: 308
+VO costs time: 0.04747
+extract keypoints cost time: 0.009815
+descriptor computation cost time: 0.011287
+good matches: 359
+Brute-Froce match cost time: 0.029752
+pnp inliers: 359
+VO costs time: 0.053054
+extract keypoints cost time: 0.007093
+descriptor computation cost time: 0.010188
+good matches: 446
+Brute-Froce match cost time: 0.031562
+pnp inliers: 446
+VO costs time: 0.051701
+extract keypoints cost time: 0.006803
+descriptor computation cost time: 0.008593
+good matches: 479
+Brute-Froce match cost time: 0.032248
+pnp inliers: 479
+VO costs time: 0.050541
+extract keypoints cost time: 0.006128
+descriptor computation cost time: 0.011492
+good matches: 297
+Brute-Froce match cost time: 0.02898
+pnp inliers: 297
+VO costs time: 0.049134
+extract keypoints cost time: 0.010562
+descriptor computation cost time: 0.008828
+good matches: 431
+Brute-Froce match cost time: 0.030994
+pnp inliers: 431
+VO costs time: 0.052907
+extract keypoints cost time: 0.006212
+descriptor computation cost time: 0.011034
+good matches: 330
+Brute-Froce match cost time: 0.035429
+pnp inliers: 329
+VO costs time: 0.055519
+extract keypoints cost time: 0.010253
+descriptor computation cost time: 0.00834
+good matches: 348
+Brute-Froce match cost time: 0.035307
+pnp inliers: 348
+VO costs time: 0.056558
+extract keypoints cost time: 0.009351
+descriptor computation cost time: 0.008736
+good matches: 405
+Brute-Froce match cost time: 0.029107
+pnp inliers: 405
+VO costs time: 0.050245
+extract keypoints cost time: 0.006739
+descriptor computation cost time: 0.008933
+good matches: 416
+Brute-Froce match cost time: 0.03172
+pnp inliers: 416
+VO costs time: 0.050056
+extract keypoints cost time: 0.008615
+descriptor computation cost time: 0.011284
+good matches: 364
+Brute-Froce match cost time: 0.029621
+pnp inliers: 364
+VO costs time: 0.05296
+extract keypoints cost time: 0.006602
+descriptor computation cost time: 0.008024
+good matches: 406
+Brute-Froce match cost time: 0.031143
+pnp inliers: 404
+VO costs time: 0.049232
+extract keypoints cost time: 0.007964
+descriptor computation cost time: 0.011691
+good matches: 335
+Brute-Froce match cost time: 0.034249
+pnp inliers: 334
+VO costs time: 0.056172
+extract keypoints cost time: 0.007718
+descriptor computation cost time: 0.011342
+good matches: 460
+Brute-Froce match cost time: 0.033828
+pnp inliers: 460
+VO costs time: 0.056703
+extract keypoints cost time: 0.005993
+descriptor computation cost time: 0.007788
+good matches: 405
+Brute-Froce match cost time: 0.029928
+pnp inliers: 405
+VO costs time: 0.048009
+extract keypoints cost time: 0.007205
+descriptor computation cost time: 0.007842
+good matches: 294
+Brute-Froce match cost time: 0.03005
+pnp inliers: 293
+VO costs time: 0.047004
+extract keypoints cost time: 0.009749
+descriptor computation cost time: 0.010111
+good matches: 411
+Brute-Froce match cost time: 0.030146
+pnp inliers: 411
+VO costs time: 0.053482
+extract keypoints cost time: 0.006766
+descriptor computation cost time: 0.007733
+good matches: 339
+Brute-Froce match cost time: 0.027491
+pnp inliers: 337
+VO costs time: 0.043989
+extract keypoints cost time: 0.006989
+descriptor computation cost time: 0.008533
+good matches: 335
+Brute-Froce match cost time: 0.028177
+pnp inliers: 335
+VO costs time: 0.046579
+extract keypoints cost time: 0.007363
+descriptor computation cost time: 0.007746
+good matches: 425
+Brute-Froce match cost time: 0.034304
+pnp inliers: 424
+VO costs time: 0.052134
+extract keypoints cost time: 0.008455
+descriptor computation cost time: 0.009111
+good matches: 379
+Brute-Froce match cost time: 0.025713
+pnp inliers: 379
+VO costs time: 0.046339
+extract keypoints cost time: 0.008701
+descriptor computation cost time: 0.011399
+good matches: 390
+Brute-Froce match cost time: 0.025451
+pnp inliers: 390
+VO costs time: 0.050222
+extract keypoints cost time: 0.009584
+descriptor computation cost time: 0.012182
+good matches: 345
+Brute-Froce match cost time: 0.031964
+pnp inliers: 345
+VO costs time: 0.056122
+extract keypoints cost time: 0.00879
+descriptor computation cost time: 0.010097
+good matches: 358
+Brute-Froce match cost time: 0.0304
+pnp inliers: 358
+VO costs time: 0.052255
+extract keypoints cost time: 0.006174
+descriptor computation cost time: 0.008596
+good matches: 408
+Brute-Froce match cost time: 0.028562
+pnp inliers: 408
+VO costs time: 0.045998
+extract keypoints cost time: 0.006946
+descriptor computation cost time: 0.013267
+good matches: 264
+Brute-Froce match cost time: 0.026704
+pnp inliers: 264
+VO costs time: 0.048596
+extract keypoints cost time: 0.009375
+descriptor computation cost time: 0.009964
+good matches: 255
+Brute-Froce match cost time: 0.0332
+pnp inliers: 254
+VO costs time: 0.055057
+extract keypoints cost time: 0.008567
+descriptor computation cost time: 0.010055
+good matches: 382
+Brute-Froce match cost time: 0.033444
+pnp inliers: 382
+VO costs time: 0.054996
+extract keypoints cost time: 0.006696
+descriptor computation cost time: 0.008556
+good matches: 356
+Brute-Froce match cost time: 0.031
+pnp inliers: 356
+VO costs time: 0.049102
+extract keypoints cost time: 0.007239
+descriptor computation cost time: 0.009085
+good matches: 400
+Brute-Froce match cost time: 0.029382
+pnp inliers: 400
+VO costs time: 0.048284
+extract keypoints cost time: 0.007959
+descriptor computation cost time: 0.010319
+good matches: 389
+Brute-Froce match cost time: 0.032482
+pnp inliers: 389
+VO costs time: 0.053279
+extract keypoints cost time: 0.006846
+descriptor computation cost time: 0.010757
+good matches: 301
+Brute-Froce match cost time: 0.028464
+pnp inliers: 301
+VO costs time: 0.048321
+extract keypoints cost time: 0.007247
+descriptor computation cost time: 0.008858
+good matches: 396
+Brute-Froce match cost time: 0.030973
+pnp inliers: 396
+VO costs time: 0.050176
+extract keypoints cost time: 0.007766
+descriptor computation cost time: 0.008748
+good matches: 331
+Brute-Froce match cost time: 0.029344
+pnp inliers: 331
+VO costs time: 0.047729
+extract keypoints cost time: 0.008693
+descriptor computation cost time: 0.011214
+good matches: 470
+Brute-Froce match cost time: 0.033543
+pnp inliers: 470
+VO costs time: 0.055976
+extract keypoints cost time: 0.011281
+descriptor computation cost time: 0.011749
+good matches: 226
+Brute-Froce match cost time: 0.038352
+pnp inliers: 226
+VO costs time: 0.064961
+extract keypoints cost time: 0.007983
+descriptor computation cost time: 0.013295
+good matches: 384
+Brute-Froce match cost time: 0.029197
+pnp inliers: 384
+VO costs time: 0.053404
+extract keypoints cost time: 0.010859
+descriptor computation cost time: 0.011365
+good matches: 394
+Brute-Froce match cost time: 0.032905
+pnp inliers: 394
+VO costs time: 0.057313
+extract keypoints cost time: 0.007852
+descriptor computation cost time: 0.01118
+good matches: 430
+Brute-Froce match cost time: 0.032529
+pnp inliers: 430
+VO costs time: 0.054168
+extract keypoints cost time: 0.007098
+descriptor computation cost time: 0.0103
+good matches: 331
+Brute-Froce match cost time: 0.032372
+pnp inliers: 331
+VO costs time: 0.052254
+extract keypoints cost time: 0.007015
+descriptor computation cost time: 0.008319
+good matches: 377
+Brute-Froce match cost time: 0.035633
+pnp inliers: 377
+VO costs time: 0.054391
+extract keypoints cost time: 0.008347
+descriptor computation cost time: 0.008494
+good matches: 292
+Brute-Froce match cost time: 0.032281
+pnp inliers: 292
+VO costs time: 0.052372
+extract keypoints cost time: 0.009559
+descriptor computation cost time: 0.012555
+good matches: 450
+Brute-Froce match cost time: 0.035394
+pnp inliers: 450
+VO costs time: 0.060579
+extract keypoints cost time: 0.011023
+descriptor computation cost time: 0.010462
+good matches: 441
+Brute-Froce match cost time: 0.034527
+pnp inliers: 441
+VO costs time: 0.059715
+extract keypoints cost time: 0.006772
+descriptor computation cost time: 0.009132
+good matches: 280
+Brute-Froce match cost time: 0.03419
+pnp inliers: 280
+VO costs time: 0.05262
+extract keypoints cost time: 0.006336
+descriptor computation cost time: 0.009756
+good matches: 125
+Brute-Froce match cost time: 0.030128
+pnp inliers: 125
+VO costs time: 0.047416
+extract keypoints cost time: 0.007789
+descriptor computation cost time: 0.014118
+good matches: 317
+Brute-Froce match cost time: 0.032864
+pnp inliers: 315
+VO costs time: 0.057159
+extract keypoints cost time: 0.007476
+descriptor computation cost time: 0.009592
+good matches: 333
+Brute-Froce match cost time: 0.03996
+pnp inliers: 333
+VO costs time: 0.059587
+extract keypoints cost time: 0.00729
+descriptor computation cost time: 0.01411
+good matches: 252
+Brute-Froce match cost time: 0.037155
+pnp inliers: 252
+VO costs time: 0.060341
+extract keypoints cost time: 0.010413
+descriptor computation cost time: 0.009509
+good matches: 316
+Brute-Froce match cost time: 0.03371
+pnp inliers: 316
+VO costs time: 0.055499
+extract keypoints cost time: 0.00975
+descriptor computation cost time: 0.012023
+good matches: 423
+Brute-Froce match cost time: 0.035884
+pnp inliers: 423
+VO costs time: 0.061716
+extract keypoints cost time: 0.007865
+descriptor computation cost time: 0.013122
+good matches: 362
+Brute-Froce match cost time: 0.043607
+pnp inliers: 362
+VO costs time: 0.067082
+extract keypoints cost time: 0.008839
+descriptor computation cost time: 0.009894
+good matches: 336
+Brute-Froce match cost time: 0.033719
+pnp inliers: 336
+VO costs time: 0.055985
+extract keypoints cost time: 0.008607
+descriptor computation cost time: 0.008164
+good matches: 458
+Brute-Froce match cost time: 0.031033
+pnp inliers: 458
+VO costs time: 0.053637
+extract keypoints cost time: 0.008718
+descriptor computation cost time: 0.008194
+good matches: 433
+Brute-Froce match cost time: 0.033405
+pnp inliers: 433
+VO costs time: 0.05306
+extract keypoints cost time: 0.011499
+descriptor computation cost time: 0.011013
+good matches: 388
+Brute-Froce match cost time: 0.034852
+pnp inliers: 388
+VO costs time: 0.061416
+extract keypoints cost time: 0.009186
+descriptor computation cost time: 0.009639
+good matches: 230
+Brute-Froce match cost time: 0.033513
+pnp inliers: 230
+VO costs time: 0.055427
+extract keypoints cost time: 0.0064
+descriptor computation cost time: 0.008478
+good matches: 300
+Brute-Froce match cost time: 0.026437
+pnp inliers: 300
+VO costs time: 0.043852
+extract keypoints cost time: 0.006058
+descriptor computation cost time: 0.010683
+good matches: 335
+Brute-Froce match cost time: 0.034631
+pnp inliers: 335
+VO costs time: 0.053981
+extract keypoints cost time: 0.007513
+descriptor computation cost time: 0.009838
+good matches: 376
+Brute-Froce match cost time: 0.034527
+pnp inliers: 376
+VO costs time: 0.055822
+extract keypoints cost time: 0.010133
+descriptor computation cost time: 0.015079
+good matches: 256
+Brute-Froce match cost time: 0.036095
+pnp inliers: 256
+VO costs time: 0.06385
+extract keypoints cost time: 0.008647
+descriptor computation cost time: 0.011683
+good matches: 392
+Brute-Froce match cost time: 0.030075
+pnp inliers: 392
+VO costs time: 0.053508
+extract keypoints cost time: 0.006883
+descriptor computation cost time: 0.010965
+good matches: 378
+Brute-Froce match cost time: 0.02748
+pnp inliers: 378
+VO costs time: 0.048704
+extract keypoints cost time: 0.009715
+descriptor computation cost time: 0.009759
+good matches: 384
+Brute-Froce match cost time: 0.031543
+pnp inliers: 384
+VO costs time: 0.055846
+extract keypoints cost time: 0.005576
+descriptor computation cost time: 0.008354
+good matches: 321
+Brute-Froce match cost time: 0.034083
+pnp inliers: 321
+VO costs time: 0.050506
+extract keypoints cost time: 0.009213
+descriptor computation cost time: 0.009756
+good matches: 335
+Brute-Froce match cost time: 0.03316
+pnp inliers: 335
+VO costs time: 0.056463
+extract keypoints cost time: 0.007587
+descriptor computation cost time: 0.010133
+good matches: 397
+Brute-Froce match cost time: 0.030281
+pnp inliers: 397
+VO costs time: 0.050476
+extract keypoints cost time: 0.007232
+descriptor computation cost time: 0.011663
+good matches: 410
+Brute-Froce match cost time: 0.036172
+pnp inliers: 410
+VO costs time: 0.058851
+extract keypoints cost time: 0.007196
+descriptor computation cost time: 0.011074
+good matches: 336
+Brute-Froce match cost time: 0.032811
+pnp inliers: 336
+VO costs time: 0.054411
+extract keypoints cost time: 0.0077
+descriptor computation cost time: 0.008117
+good matches: 319
+Brute-Froce match cost time: 0.032711
+pnp inliers: 319
+VO costs time: 0.050677
+extract keypoints cost time: 0.005039
+descriptor computation cost time: 0.009291
+good matches: 348
+Brute-Froce match cost time: 0.031461
+pnp inliers: 347
+VO costs time: 0.050257
+extract keypoints cost time: 0.006366
+descriptor computation cost time: 0.008425
+good matches: 371
+Brute-Froce match cost time: 0.039259
+pnp inliers: 370
+VO costs time: 0.05652
+extract keypoints cost time: 0.005909
+descriptor computation cost time: 0.009939
+good matches: 391
+Brute-Froce match cost time: 0.032498
+pnp inliers: 387
+VO costs time: 0.052444
+extract keypoints cost time: 0.006321
+descriptor computation cost time: 0.012266
+good matches: 321
+Brute-Froce match cost time: 0.038126
+pnp inliers: 321
+VO costs time: 0.060121
+extract keypoints cost time: 0.005543
+descriptor computation cost time: 0.010283
+good matches: 392
+Brute-Froce match cost time: 0.032598
+pnp inliers: 391
+VO costs time: 0.054429
+extract keypoints cost time: 0.00634
+descriptor computation cost time: 0.00817
+good matches: 379
+Brute-Froce match cost time: 0.031728
+pnp inliers: 378
+VO costs time: 0.049708
+extract keypoints cost time: 0.007961
+descriptor computation cost time: 0.010031
+good matches: 310
+Brute-Froce match cost time: 0.035427
+pnp inliers: 305
+VO costs time: 0.056993
+extract keypoints cost time: 0.008186
+descriptor computation cost time: 0.013774
+good matches: 340
+Brute-Froce match cost time: 0.03501
+pnp inliers: 338
+VO costs time: 0.059377
+extract keypoints cost time: 0.007136
+descriptor computation cost time: 0.010771
+good matches: 331
+Brute-Froce match cost time: 0.032428
+pnp inliers: 331
+VO costs time: 0.054002
+extract keypoints cost time: 0.006301
+descriptor computation cost time: 0.010524
+good matches: 301
+Brute-Froce match cost time: 0.028403
+pnp inliers: 293
+VO costs time: 0.049055
+extract keypoints cost time: 0.005413
+descriptor computation cost time: 0.00913
+good matches: 286
+Brute-Froce match cost time: 0.027687
+pnp inliers: 275
+VO costs time: 0.046298
+extract keypoints cost time: 0.008186
+descriptor computation cost time: 0.009318
+good matches: 370
+Brute-Froce match cost time: 0.041351
+pnp inliers: 368
+VO costs time: 0.062093
+extract keypoints cost time: 0.006073
+descriptor computation cost time: 0.00979
+good matches: 383
+Brute-Froce match cost time: 0.037371
+pnp inliers: 381
+VO costs time: 0.056199
+extract keypoints cost time: 0.005721
+descriptor computation cost time: 0.013538
+good matches: 432
+Brute-Froce match cost time: 0.038051
+pnp inliers: 423
+VO costs time: 0.059965
+extract keypoints cost time: 0.008287
+descriptor computation cost time: 0.011236
+good matches: 375
+Brute-Froce match cost time: 0.028277
+pnp inliers: 371
+VO costs time: 0.052845
+extract keypoints cost time: 0.005144
+descriptor computation cost time: 0.010949
+good matches: 318
+Brute-Froce match cost time: 0.028941
+pnp inliers: 313
+VO costs time: 0.04711
+extract keypoints cost time: 0.007866
+descriptor computation cost time: 0.01273
+good matches: 319
+Brute-Froce match cost time: 0.028368
+pnp inliers: 310
+VO costs time: 0.052049
+extract keypoints cost time: 0.006805
+descriptor computation cost time: 0.008053
+good matches: 347
+Brute-Froce match cost time: 0.029092
+pnp inliers: 346
+VO costs time: 0.048199
+extract keypoints cost time: 0.004681
+descriptor computation cost time: 0.008305
+good matches: 358
+Brute-Froce match cost time: 0.037309
+pnp inliers: 355
+VO costs time: 0.055412
+extract keypoints cost time: 0.006385
+descriptor computation cost time: 0.008747
+good matches: 365
+Brute-Froce match cost time: 0.037023
+pnp inliers: 364
+VO costs time: 0.055079
+extract keypoints cost time: 0.00549
+descriptor computation cost time: 0.012277
+good matches: 443
+Brute-Froce match cost time: 0.036067
+pnp inliers: 443
+VO costs time: 0.057481
+extract keypoints cost time: 0.006978
+descriptor computation cost time: 0.008336
+good matches: 386
+Brute-Froce match cost time: 0.028831
+pnp inliers: 380
+VO costs time: 0.047197
+extract keypoints cost time: 0.005391
+descriptor computation cost time: 0.009968
+good matches: 429
+Brute-Froce match cost time: 0.041182
+pnp inliers: 428
+VO costs time: 0.060436
+extract keypoints cost time: 0.010216
+descriptor computation cost time: 0.012144
+good matches: 443
+Brute-Froce match cost time: 0.034136
+pnp inliers: 441
+VO costs time: 0.059664
+extract keypoints cost time: 0.007168
+descriptor computation cost time: 0.010301
+good matches: 447
+Brute-Froce match cost time: 0.035892
+pnp inliers: 446
+VO costs time: 0.057287
+extract keypoints cost time: 0.00728
+descriptor computation cost time: 0.008689
+good matches: 462
+Brute-Froce match cost time: 0.036005
+pnp inliers: 462
+VO costs time: 0.056331
+extract keypoints cost time: 0.007145
+descriptor computation cost time: 0.009061
+good matches: 432
+Brute-Froce match cost time: 0.033065
+pnp inliers: 432
+VO costs time: 0.052524
+extract keypoints cost time: 0.006445
+descriptor computation cost time: 0.008148
+good matches: 311
+Brute-Froce match cost time: 0.030767
+pnp inliers: 311
+VO costs time: 0.048482
+extract keypoints cost time: 0.008393
+descriptor computation cost time: 0.009909
+good matches: 343
+Brute-Froce match cost time: 0.032815
+pnp inliers: 341
+VO costs time: 0.05406
+extract keypoints cost time: 0.009628
+descriptor computation cost time: 0.010519
+good matches: 424
+Brute-Froce match cost time: 0.031589
+pnp inliers: 424
+VO costs time: 0.054542
+extract keypoints cost time: 0.006298
+descriptor computation cost time: 0.014997
+good matches: 241
+Brute-Froce match cost time: 0.034738
+pnp inliers: 241
+VO costs time: 0.058998
+extract keypoints cost time: 0.006913
+descriptor computation cost time: 0.008892
+good matches: 397
+Brute-Froce match cost time: 0.032978
+pnp inliers: 396
+VO costs time: 0.051508
+extract keypoints cost time: 0.005509
+descriptor computation cost time: 0.009605
+good matches: 378
+Brute-Froce match cost time: 0.035653
+pnp inliers: 378
+VO costs time: 0.054036
+extract keypoints cost time: 0.006174
+descriptor computation cost time: 0.008197
+good matches: 335
+Brute-Froce match cost time: 0.036744
+pnp inliers: 335
+VO costs time: 0.057396
+extract keypoints cost time: 0.005091
+descriptor computation cost time: 0.009199
+good matches: 269
+Brute-Froce match cost time: 0.031465
+pnp inliers: 268
+VO costs time: 0.051121
+extract keypoints cost time: 0.011347
+descriptor computation cost time: 0.010185
+good matches: 283
+Brute-Froce match cost time: 0.032078
+pnp inliers: 283
+VO costs time: 0.056891
+extract keypoints cost time: 0.008994
+descriptor computation cost time: 0.010933
+good matches: 362
+Brute-Froce match cost time: 0.032494
+pnp inliers: 361
+VO costs time: 0.056517
+extract keypoints cost time: 0.007072
+descriptor computation cost time: 0.008864
+good matches: 420
+Brute-Froce match cost time: 0.040625
+pnp inliers: 420
+VO costs time: 0.060776
+extract keypoints cost time: 0.006235
+descriptor computation cost time: 0.009257
+good matches: 360
+Brute-Froce match cost time: 0.036195
+pnp inliers: 360
+VO costs time: 0.055804
+extract keypoints cost time: 0.007421
+descriptor computation cost time: 0.008301
+good matches: 453
+Brute-Froce match cost time: 0.034985
+pnp inliers: 453
+VO costs time: 0.053603
+extract keypoints cost time: 0.007236
+descriptor computation cost time: 0.009317
+good matches: 415
+Brute-Froce match cost time: 0.034293
+pnp inliers: 415
+VO costs time: 0.056298
+extract keypoints cost time: 0.007696
+descriptor computation cost time: 0.00829
+good matches: 440
+Brute-Froce match cost time: 0.032372
+pnp inliers: 440
+VO costs time: 0.053558
+extract keypoints cost time: 0.007552
+descriptor computation cost time: 0.009083
+good matches: 475
+Brute-Froce match cost time: 0.033611
+pnp inliers: 474
+VO costs time: 0.054323
+extract keypoints cost time: 0.01269
+descriptor computation cost time: 0.008748
+good matches: 457
+Brute-Froce match cost time: 0.033785
+pnp inliers: 457
+VO costs time: 0.059681
+extract keypoints cost time: 0.008286
+descriptor computation cost time: 0.008532
+good matches: 435
+Brute-Froce match cost time: 0.033641
+pnp inliers: 435
+VO costs time: 0.053969
+extract keypoints cost time: 0.009193
+descriptor computation cost time: 0.008211
+good matches: 403
+Brute-Froce match cost time: 0.035595
+pnp inliers: 403
+VO costs time: 0.056763
+extract keypoints cost time: 0.006946
+descriptor computation cost time: 0.008338
+good matches: 455
+Brute-Froce match cost time: 0.034283
+pnp inliers: 455
+VO costs time: 0.05408
+extract keypoints cost time: 0.007756
+descriptor computation cost time: 0.008436
+good matches: 381
+Brute-Froce match cost time: 0.033673
+pnp inliers: 381
+VO costs time: 0.05285
+extract keypoints cost time: 0.011631
+descriptor computation cost time: 0.01058
+good matches: 421
+Brute-Froce match cost time: 0.035351
+pnp inliers: 421
+VO costs time: 0.06174
+extract keypoints cost time: 0.00954
+descriptor computation cost time: 0.009896
+good matches: 421
+Brute-Froce match cost time: 0.034658
+pnp inliers: 421
+VO costs time: 0.057824
+extract keypoints cost time: 0.007832
+descriptor computation cost time: 0.00921
+good matches: 467
+Brute-Froce match cost time: 0.039806
+pnp inliers: 467
+VO costs time: 0.061927
+extract keypoints cost time: 0.0091
+descriptor computation cost time: 0.011796
+good matches: 461
+Brute-Froce match cost time: 0.038671
+pnp inliers: 461
+VO costs time: 0.063902
+extract keypoints cost time: 0.007777
+descriptor computation cost time: 0.014212
+good matches: 444
+Brute-Froce match cost time: 0.031887
+pnp inliers: 444
+VO costs time: 0.056775
+extract keypoints cost time: 0.008459
+descriptor computation cost time: 0.009747
+good matches: 484
+Brute-Froce match cost time: 0.035247
+pnp inliers: 484
+VO costs time: 0.057979
+extract keypoints cost time: 0.008042
+descriptor computation cost time: 0.009689
+good matches: 461
+Brute-Froce match cost time: 0.03319
+pnp inliers: 461
+VO costs time: 0.05419
+extract keypoints cost time: 0.011522
+descriptor computation cost time: 0.013425
+good matches: 479
+Brute-Froce match cost time: 0.033206
+pnp inliers: 479
+VO costs time: 0.061375
+extract keypoints cost time: 0.011757
+descriptor computation cost time: 0.011328
+good matches: 467
+Brute-Froce match cost time: 0.028252
+pnp inliers: 467
+VO costs time: 0.054808
+extract keypoints cost time: 0.009757
+descriptor computation cost time: 0.009801
+good matches: 457
+Brute-Froce match cost time: 0.035305
+pnp inliers: 457
+VO costs time: 0.060182
+extract keypoints cost time: 0.010621
+descriptor computation cost time: 0.009827
+good matches: 453
+Brute-Froce match cost time: 0.034598
+pnp inliers: 453
+VO costs time: 0.059705
+extract keypoints cost time: 0.009564
+descriptor computation cost time: 0.012307
+good matches: 455
+Brute-Froce match cost time: 0.034228
+pnp inliers: 455
+VO costs time: 0.059755
+extract keypoints cost time: 0.007268
+descriptor computation cost time: 0.008525
+good matches: 408
+Brute-Froce match cost time: 0.036759
+pnp inliers: 407
+VO costs time: 0.057717
+extract keypoints cost time: 0.008062
+descriptor computation cost time: 0.009546
+good matches: 472
+Brute-Froce match cost time: 0.034595
+pnp inliers: 472
+VO costs time: 0.05593
+extract keypoints cost time: 0.006727
+descriptor computation cost time: 0.012221
+good matches: 442
+Brute-Froce match cost time: 0.035801
+pnp inliers: 442
+VO costs time: 0.058921
+extract keypoints cost time: 0.009826
+descriptor computation cost time: 0.01103
+good matches: 472
+Brute-Froce match cost time: 0.032143
+pnp inliers: 472
+VO costs time: 0.056418
+extract keypoints cost time: 0.008424
+descriptor computation cost time: 0.013174
+good matches: 382
+Brute-Froce match cost time: 0.03988
+pnp inliers: 382
+VO costs time: 0.06524
+extract keypoints cost time: 0.007742
+descriptor computation cost time: 0.008553
+good matches: 324
+Brute-Froce match cost time: 0.036994
+pnp inliers: 324
+VO costs time: 0.055712
+extract keypoints cost time: 0.010532
+descriptor computation cost time: 0.010122
+good matches: 423
+Brute-Froce match cost time: 0.038553
+pnp inliers: 423
+VO costs time: 0.062216
+extract keypoints cost time: 0.011253
+descriptor computation cost time: 0.011643
+good matches: 372
+Brute-Froce match cost time: 0.033257
+pnp inliers: 372
+VO costs time: 0.059323
+extract keypoints cost time: 0.00741
+descriptor computation cost time: 0.008293
+good matches: 424
+Brute-Froce match cost time: 0.035739
+pnp inliers: 424
+VO costs time: 0.055074
+extract keypoints cost time: 0.008146
+descriptor computation cost time: 0.009215
+good matches: 385
+Brute-Froce match cost time: 0.035126
+pnp inliers: 385
+VO costs time: 0.056699
+extract keypoints cost time: 0.010012
+descriptor computation cost time: 0.009161
+good matches: 327
+Brute-Froce match cost time: 0.037292
+pnp inliers: 327
+VO costs time: 0.061213
+extract keypoints cost time: 0.00739
+descriptor computation cost time: 0.008289
+good matches: 454
+Brute-Froce match cost time: 0.037381
+pnp inliers: 454
+VO costs time: 0.057064
+extract keypoints cost time: 0.006986
+descriptor computation cost time: 0.008689
+good matches: 426
+Brute-Froce match cost time: 0.037985
+pnp inliers: 422
+VO costs time: 0.057616
+extract keypoints cost time: 0.007081
+descriptor computation cost time: 0.008082
+good matches: 391
+Brute-Froce match cost time: 0.037074
+pnp inliers: 391
+VO costs time: 0.055087
+extract keypoints cost time: 0.008233
+descriptor computation cost time: 0.010905
+good matches: 448
+Brute-Froce match cost time: 0.031197
+pnp inliers: 448
+VO costs time: 0.054402
+extract keypoints cost time: 0.008722
+descriptor computation cost time: 0.009559
+good matches: 389
+Brute-Froce match cost time: 0.036809
+pnp inliers: 389
+VO costs time: 0.059753
+extract keypoints cost time: 0.00809
+descriptor computation cost time: 0.011679
+good matches: 472
+Brute-Froce match cost time: 0.034903
+pnp inliers: 472
+VO costs time: 0.060672
+extract keypoints cost time: 0.007759
+descriptor computation cost time: 0.010759
+good matches: 419
+Brute-Froce match cost time: 0.030772
+pnp inliers: 418
+VO costs time: 0.053056
+extract keypoints cost time: 0.0123
+descriptor computation cost time: 0.011852
+good matches: 474
+Brute-Froce match cost time: 0.034015
+pnp inliers: 474
+VO costs time: 0.061691
+extract keypoints cost time: 0.009018
+descriptor computation cost time: 0.011895
+good matches: 461
+Brute-Froce match cost time: 0.035295
+pnp inliers: 461
+VO costs time: 0.059497
+extract keypoints cost time: 0.007354
+descriptor computation cost time: 0.009243
+good matches: 442
+Brute-Froce match cost time: 0.031246
+pnp inliers: 442
+VO costs time: 0.053459
+extract keypoints cost time: 0.009037
+descriptor computation cost time: 0.012625
+good matches: 376
+Brute-Froce match cost time: 0.033062
+pnp inliers: 376
+VO costs time: 0.057407
+extract keypoints cost time: 0.010774
+descriptor computation cost time: 0.010193
+good matches: 412
+Brute-Froce match cost time: 0.03504
+pnp inliers: 412
+VO costs time: 0.060333
+extract keypoints cost time: 0.010684
+descriptor computation cost time: 0.011226
+good matches: 345
+Brute-Froce match cost time: 0.035542
+pnp inliers: 345
+VO costs time: 0.06019
+extract keypoints cost time: 0.008149
+descriptor computation cost time: 0.009228
+good matches: 475
+Brute-Froce match cost time: 0.035501
+pnp inliers: 474
+VO costs time: 0.056288
+extract keypoints cost time: 0.008335
+descriptor computation cost time: 0.009077
+good matches: 416
+Brute-Froce match cost time: 0.03098
+pnp inliers: 414
+VO costs time: 0.053295
+extract keypoints cost time: 0.007585
+descriptor computation cost time: 0.009705
+good matches: 443
+Brute-Froce match cost time: 0.036664
+pnp inliers: 442
+VO costs time: 0.058248
+extract keypoints cost time: 0.009484
+descriptor computation cost time: 0.008189
+good matches: 456
+Brute-Froce match cost time: 0.032392
+pnp inliers: 456
+VO costs time: 0.052802
+extract keypoints cost time: 0.010932
+descriptor computation cost time: 0.011712
+good matches: 459
+Brute-Froce match cost time: 0.02987
+pnp inliers: 459
+VO costs time: 0.058511
+extract keypoints cost time: 0.009006
+descriptor computation cost time: 0.014404
+good matches: 430
+Brute-Froce match cost time: 0.030443
+pnp inliers: 430
+VO costs time: 0.056753
+extract keypoints cost time: 0.008299
+descriptor computation cost time: 0.011831
+good matches: 435
+Brute-Froce match cost time: 0.032469
+pnp inliers: 434
+VO costs time: 0.055976
+extract keypoints cost time: 0.009417
+descriptor computation cost time: 0.013076
+good matches: 426
+Brute-Froce match cost time: 0.034321
+pnp inliers: 426
+VO costs time: 0.061009
+extract keypoints cost time: 0.00782
+descriptor computation cost time: 0.008358
+good matches: 435
+Brute-Froce match cost time: 0.03011
+pnp inliers: 434
+VO costs time: 0.049842
+extract keypoints cost time: 0.008336
+descriptor computation cost time: 0.009506
+good matches: 425
+Brute-Froce match cost time: 0.036443
+pnp inliers: 424
+VO costs time: 0.057352
+extract keypoints cost time: 0.008324
+descriptor computation cost time: 0.008493
+good matches: 408
+Brute-Froce match cost time: 0.033875
+pnp inliers: 408
+VO costs time: 0.054058
+extract keypoints cost time: 0.009147
+descriptor computation cost time: 0.011457
+good matches: 430
+Brute-Froce match cost time: 0.033172
+pnp inliers: 430
+VO costs time: 0.058969
+extract keypoints cost time: 0.00991
+descriptor computation cost time: 0.01088
+good matches: 475
+Brute-Froce match cost time: 0.030702
+pnp inliers: 475
+VO costs time: 0.054507
+extract keypoints cost time: 0.008358
+descriptor computation cost time: 0.012565
+good matches: 434
+Brute-Froce match cost time: 0.031118
+pnp inliers: 434
+VO costs time: 0.055346
+extract keypoints cost time: 0.007676
+descriptor computation cost time: 0.008839
+good matches: 405
+Brute-Froce match cost time: 0.032018
+pnp inliers: 404
+VO costs time: 0.051932
+extract keypoints cost time: 0.009517
+descriptor computation cost time: 0.009799
+good matches: 415
+Brute-Froce match cost time: 0.030067
+pnp inliers: 413
+VO costs time: 0.051957
+extract keypoints cost time: 0.009135
+descriptor computation cost time: 0.011753
+good matches: 404
+Brute-Froce match cost time: 0.031917
+pnp inliers: 402
+VO costs time: 0.056844
+extract keypoints cost time: 0.009415
+descriptor computation cost time: 0.008323
+good matches: 398
+Brute-Froce match cost time: 0.030946
+pnp inliers: 397
+VO costs time: 0.052215
