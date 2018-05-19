@@ -6,3 +6,5 @@
 4. Created two dense maps by Octomap and by PCL with depth filter and statistical outliers removal filter.
 
 [Click here to watch the result video](https://youtu.be/6-rgJaZmCC0)
+
+[![tum_result](/result/tum_result.png)](https://youtu.be/6-rgJaZmCC0)
